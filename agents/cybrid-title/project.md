@@ -48,10 +48,23 @@
 - Sample files (de-identified-able): `AppData/Local/hermes/attachments/25-003916 TITLE_REPORT_1.pdf` (18.6MB), `25-004050 TitleReport2.pdf` (3.4MB). Extracted text in <HERMES_HOME>\cache\scratch\pdfs\{report1,report2}.txt.
 
 ## NEXT ACTIONS (in order)
-1. When user is next in Lovable: run `process-title-report` on Report1 + Report2, paste JSON results → real measured baseline.
-2. Fix `current_first` (single known defect gate per HANDOFF.md) before any new golden packets.
+1. **CLOSE THE BASELINE (blocked on 1 secret, see "Baseline run" below).** Real parser now runs locally against both real PDFs; the LLM/grading pass still needs the Lovable path.
+2. ~~Fix `current_first`~~ ✅ DONE 2026-09-29 (commit 6f40dcb) — struck from this list 2026-10-06.
 3. Design targeted page enrichment for commercial-size packets (raise/reshape 24-page cap) before 50k scale.
 4. Then port to Hetzner behind real queue (idempotency, workers, cost model, audit trail).
+
+## Baseline run — how it closes (state 2026-10-06)
+- **Durable clones (scratch was pruned; earlier clones were destroyed — use these):**
+  - `C:\Users\Chris Rupert\code\report-vetter-bot` (private, at `03ccb1e`)
+  - `C:\Users\Chris Rupert\code\jev-ultrafast` (TypeSafe key → `.env` there)
+- Deno 2.9.7 present at `~/.deno/bin/deno`.
+- **Missing inputs, both keys-only — no code work remains:**
+  1. `MISTRAL_API_KEY` → `C:\Users\Chris Rupert\code\report-vetter-bot\.env.local` (the old copy died with scratch).
+     With it: `deno run --allow-env --allow-read --allow-net --env-file=.env.local tools/offline-parse.ts "<pdf>"`
+     → real OCR + real parser on Report 1 + Report 2, locally, no Supabase/gateway.
+  2. Full LLM/grading baseline (`process-title-report`) still runs in Lovable where Cloud Secrets hold Supabase +
+     gateway creds; paste its JSON back here to record measured accuracy.
+- Sample files: `C:\Users\Chris Rupert\AppData\Local\hermes\attachments\25-003916  TITLE_REPORT_1.pdf` (19.5MB), `25-004050  TitleReport2.pdf` (3.6MB).
 
 ## Architecture decisions (locked unless amended here)
 1. **Not production on Lovable.** Lovable = prototype. Production = real infra on Hetzner.
