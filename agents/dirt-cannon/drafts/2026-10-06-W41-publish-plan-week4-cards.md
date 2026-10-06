@@ -1,6 +1,17 @@
 # Publish plan — THREE NUMBERS, Week 4 cards (NFL W4 / CFB W5 pack)
 
-**Status: DRAFT — awaiting owner approval. Nothing posted, scheduled, or spent.**
+> ⛔ **CANCELLED (owner, 2026-10-06) — "ok just cancel that."** Not approved, not pursued. Nothing was
+> posted, scheduled, or spent. Do not re-raise this plan or a variant of it unless Chris asks.
+> The cards, the audited pack (`evidence/2026-nfl-week-4-cfb-week-5-handoff/`), and the verified numbers
+> stay on the desk — the data doesn't rot and needs no decision. Only the posting plan is cancelled.
+>
+> Context found while building it, recorded so nobody re-discovers it: the site's Game Predictions sit behind
+> the $6/mo GridIron Oracle login, and `/pricing` says checkout is still being finalized (nothing is locked,
+> but there is no live prediction page to send traffic to yet). `/remote-patrol` is free but currently shows
+> "this week's issue has wrapped" with an empty streaming table. A captions→site funnel has no cake to point
+> at today.
+
+**Status: DRAFT — cancelled before approval.**
 **Thrown: Tue 2026-10-06. Per `STALE-POLICY.md` this plan expires 24h after Chris is told (→ Wed 2026-10-07 09:00 ET) unless he acts on it.**
 **Source of record:** `evidence/2026-nfl-week-4-cfb-week-5-handoff/` (`dirt-canon-three-numbers-nfl-week-4-cfb-week-5-2026.zip`, 12.1 MB, 74 files).
 Every number below traces to that pack. Nothing invented.
