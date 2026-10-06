@@ -48,23 +48,42 @@
 - Sample files (de-identified-able): `AppData/Local/hermes/attachments/25-003916 TITLE_REPORT_1.pdf` (18.6MB), `25-004050 TitleReport2.pdf` (3.4MB). Extracted text in <HERMES_HOME>\cache\scratch\pdfs\{report1,report2}.txt.
 
 ## NEXT ACTIONS (in order)
-1. **CLOSE THE BASELINE (blocked on 1 secret, see "Baseline run" below).** Real parser now runs locally against both real PDFs; the LLM/grading pass still needs the Lovable path.
-2. ~~Fix `current_first`~~ ✅ DONE 2026-09-29 (commit 6f40dcb) — struck from this list 2026-10-06.
-3. Design targeted page enrichment for commercial-size packets (raise/reshape 24-page cap) before 50k scale.
-4. Then port to Hetzner behind real queue (idempotency, workers, cost model, audit trail).
+> ⚠️ **Scope rule (owner, 2026-10-06): nothing here is being worked on unless it has been talked about and
+> agreed. Open items live in `C:\Users\Chris Rupert\agent-control-room\OPEN-ITEMS.md`, not as nudges.**
+> **Lovable is ON HOLD** — the Lovable-run baseline is parked, not pending.
 
-## Baseline run — how it closes (state 2026-10-06)
-- **Durable clones (scratch was pruned; earlier clones were destroyed — use these):**
-  - `C:\Users\Chris Rupert\code\report-vetter-bot` (private, at `03ccb1e`)
-  - `C:\Users\Chris Rupert\code\jev-ultrafast` (TypeSafe key → `.env` there)
-- Deno 2.9.7 present at `~/.deno/bin/deno`.
-- **Missing inputs, both keys-only — no code work remains:**
-  1. `MISTRAL_API_KEY` → `C:\Users\Chris Rupert\code\report-vetter-bot\.env.local` (the old copy died with scratch).
-     With it: `deno run --allow-env --allow-read --allow-net --env-file=.env.local tools/offline-parse.ts "<pdf>"`
-     → real OCR + real parser on Report 1 + Report 2, locally, no Supabase/gateway.
-  2. Full LLM/grading baseline (`process-title-report`) still runs in Lovable where Cloud Secrets hold Supabase +
-     gateway creds; paste its JSON back here to record measured accuracy.
-- Sample files: `C:\Users\Chris Rupert\AppData\Local\hermes\attachments\25-003916  TITLE_REPORT_1.pdf` (19.5MB), `25-004050  TitleReport2.pdf` (3.6MB).
+1. **Local parser baseline: ✅ RUN 2026-10-06, both defects verified green** (see below).
+2. ~~Fix `current_first`~~ ✅ DONE 2026-09-29 (commit 6f40dcb).
+3. Design targeted page enrichment for commercial-size packets (raise/reshape 24-page cap) before 50k scale. *(not discussed — parked)*
+4. Hetzner build-out as a project: design server role, what runs there, queue/cost/audit — **discuss scope before building.** *(not discussed — parked)*
+
+## Local parser test — RUN 2026-10-06 (Mistral key in `.env.local`, deno 2.9.7, repo at `03ccb1e`)
+Purpose of the Mistral key (owner, 2026-10-06): **local testing + the eventual Hetzner build. NOT for Lovable** (on hold).
+
+| File | Command | Result |
+|---|---|---|
+| `25-004050 TitleReport2.pdf` (3.6MB) | `tools/check-curative.ts` | **4 curative items** (was 0): Missing assignment into Servbank ✅, Jr. due to purchase money mortgage, FINAL JUDGMENT, UCC FINANCING STATEMENT. Matches golden "≥4". OCR: 126 pages, 23s. |
+| `25-003916  TITLE_REPORT_1.pdf` (19.5MB) | `tools/offline-parse.ts` | **current_first FOUND**: instrument 1222264739, amount 428041, page 2 (UWM/MERS mortgage) — was NULL. OCR: 60 pages, 23s. Matches the 6f40dcb fix. |
+| `25-004050 TitleReport2.pdf` | `tools/offline-parse.ts` | Returns instrument `101177611802131232`, amount null, page 39. **21 digits — implausible for a Duval instrument number (~10 digits). Probable parsing artifact, unverified against golden. Do not claim this one is correct.** |
+
+- Transient note: the first 19.5MB attempt died with `mistral_error=fetch failed`; an immediate retry
+  succeeded. Large-upload path is flaky once, not broken. Worth one retry built into the harness later.
+- `mistral-ocr-latest` alias resolved fine (no version pin needed).
+- The `unpdf` fallback is not installed locally (`node_modules` absent) — irrelevant while Mistral works,
+  but the fallback is untested on this machine.
+
+### Still open on the baseline (not discussed — parked)
+- Full LLM-extraction + grading accuracy (the number that gates the 5k contract) — was to run in Lovable,
+  which is now on hold. Needs a decision: another route, or wait.
+- Golden test set is n=2. Thresholds (Phase B) can't be set from n=2.
+- Non-determinism (Q7 flipped FAIL↔PASS on one packet hash) — unfixed.
+
+## Durable clones / paths (2026-10-06 — scratch was pruned and destroyed the earlier clones)
+- `C:\Users\Chris Rupert\code\report-vetter-bot` (private, at `03ccb1e`) — `.env.local` holds `MISTRAL_API_KEY`.
+- `C:\Users\Chris Rupert\code\jev-ultrafast` — TypeSafe key in `.env` (**verified live** 2026-10-06:
+  422 with key vs 403 without; 31/31 tests, ruff clean). `TEXT_MODEL_API_KEY` still blank (only needed for TYPE_TEXT).
+- Sample files: `C:\Users\Chris Rupert\AppData\Local\hermes\attachments\25-003916  TITLE_REPORT_1.pdf` (19.5MB),
+  `25-004050  TitleReport2.pdf` (3.6MB).
 
 ## Architecture decisions (locked unless amended here)
 1. **Not production on Lovable.** Lovable = prototype. Production = real infra on Hetzner.
