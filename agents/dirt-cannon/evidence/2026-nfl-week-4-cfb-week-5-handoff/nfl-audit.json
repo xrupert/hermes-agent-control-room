@@ -1,0 +1,102 @@
+{
+  "duplicate_ids": 0,
+  "games_by_week": {
+    "1": 16,
+    "2": 16,
+    "3": 16,
+    "4": 16
+  },
+  "latest_week_score_checks": [
+    {
+      "game": "2026_04_PIT_CLE",
+      "espn_event": "401872964",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_IND_WAS",
+      "espn_event": "401872965",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_NE_BUF",
+      "espn_event": "401872971",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_NYJ_CHI",
+      "espn_event": "401872972",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_JAX_CIN",
+      "espn_event": "401872969",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_ARI_NYG",
+      "espn_event": "401872966",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_LA_PHI",
+      "espn_event": "401872970",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_GB_TB",
+      "espn_event": "401872968",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_TEN_BAL",
+      "espn_event": "401872973",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_DAL_HOU",
+      "espn_event": "401872967",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_MIA_MIN",
+      "espn_event": "401872974",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_KC_LV",
+      "espn_event": "401872976",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_DEN_SF",
+      "espn_event": "401872975",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_LAC_SEA",
+      "espn_event": "401872977",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_DET_CAR",
+      "espn_event": "401872978",
+      "final_match": true
+    },
+    {
+      "game": "2026_04_ATL_NO",
+      "espn_event": "401872979",
+      "final_match": true
+    }
+  ],
+  "eligible_plays": 7789,
+  "missing_epa": 0,
+  "missing_yards": 0,
+  "season_dates": [
+    "2026-09-09",
+    "2026-10-05"
+  ],
+  "week_dates": [
+    "2026-10-01",
+    "2026-10-05"
+  ]
+}

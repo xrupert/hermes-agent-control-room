@@ -1,0 +1,1154 @@
+[
+  {
+    "team": "Arizona Cardinals",
+    "team_code": "ARI",
+    "city": "Arizona",
+    "nickname": "Cardinals",
+    "primary": "#a40227",
+    "secondary": "#ffffff",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Ninth in consistency. Last in big-play balance.\nThe ordinary snaps look better than\nthe damage from the big ones.",
+    "next_test": "Detroit Lions",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 259 OFFENSIVE / 228 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 24,
+      "value": -0.0961394285175038,
+      "offense": -0.0292457044871148,
+      "allowed": 0.066893724030389,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 9,
+      "value": 3.349590191695455,
+      "offense": 46.33204633204633,
+      "allowed": 42.98245614035088,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 32,
+      "value": -7.103908419697893,
+      "offense": 3.861003861003861,
+      "allowed": 10.964912280701752,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "arizona-cardinals-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Ninth in consistency. Last in big-play balance. The ordinary snaps look better than the damage from the big ones. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Atlanta Falcons",
+    "team_code": "ATL",
+    "city": "Atlanta",
+    "nickname": "Falcons",
+    "primary": "#a71930",
+    "secondary": "#000000",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "First in consistency. Thirteenth in efficiency.\nWinning more snaps does not mean winning\nthe most valuable ones.",
+    "next_test": "Baltimore Ravens",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 242 OFFENSIVE / 252 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 13,
+      "value": 0.0286367393012167,
+      "offense": -0.027989013961781,
+      "allowed": -0.0566257532629977,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 1,
+      "value": 11.078315623770171,
+      "offense": 49.17355371900827,
+      "allowed": 38.095238095238095,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 5,
+      "value": 3.997769906860817,
+      "offense": 10.743801652892564,
+      "allowed": 6.746031746031746,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "atlanta-falcons-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "First in consistency. Thirteenth in efficiency. Winning more snaps does not mean winning the most valuable ones. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Baltimore Ravens",
+    "team_code": "BAL",
+    "city": "Baltimore",
+    "nickname": "Ravens",
+    "primary": "#29126f",
+    "secondary": "#000000",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Top four in all three measures.\nBaltimore is winning ordinary snaps\nand the chunk-play exchange.",
+    "next_test": "Atlanta Falcons",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 232 OFFENSIVE / 245 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 4,
+      "value": 0.2149980570136052,
+      "offense": 0.1863872940564345,
+      "allowed": -0.0286107629571707,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 2,
+      "value": 9.275158339197752,
+      "offense": 51.72413793103448,
+      "allowed": 42.44897959183673,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 2,
+      "value": 4.836382828993667,
+      "offense": 14.224137931034484,
+      "allowed": 9.387755102040815,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "baltimore-ravens-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Top four in all three measures. Baltimore is winning ordinary snaps and the chunk-play exchange. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Buffalo Bills",
+    "team_code": "BUF",
+    "city": "Buffalo",
+    "nickname": "Bills",
+    "primary": "#00338d",
+    "secondary": "#d50a0a",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #9; consistency #17; big plays #6.\nFour games describe the start, not established talent.",
+    "next_test": "Los Angeles Rams",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 233 OFFENSIVE / 270 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 9,
+      "value": 0.0981829515789181,
+      "offense": 0.2003241215095933,
+      "allowed": 0.1021411699306752,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 17,
+      "value": -0.0794786202511517,
+      "offense": 48.06866952789699,
+      "allowed": 48.14814814814815,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 6,
+      "value": 3.9691622953425543,
+      "offense": 15.450643776824036,
+      "allowed": 11.48148148148148,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "buffalo-bills-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #9; consistency #17; big plays #6. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Carolina Panthers",
+    "team_code": "CAR",
+    "city": "Carolina",
+    "nickname": "Panthers",
+    "primary": "#0085ca",
+    "secondary": "#000000",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #10; consistency #12; big plays #8.\nFour games describe the start, not established talent.",
+    "next_test": "BYE \u2014 Week 5",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 264 OFFENSIVE / 266 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 10,
+      "value": 0.0946972239238386,
+      "offense": 0.1191329429136716,
+      "allowed": 0.024435718989833,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 12,
+      "value": 1.0850991114149051,
+      "offense": 44.31818181818182,
+      "allowed": 43.23308270676692,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 8,
+      "value": 2.338231943495101,
+      "offense": 10.984848484848484,
+      "allowed": 8.646616541353383,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "carolina-panthers-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #10; consistency #12; big plays #8. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Chicago Bears",
+    "team_code": "CHI",
+    "city": "Chicago",
+    "nickname": "Bears",
+    "primary": "#0b1c3a",
+    "secondary": "#e64100",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #5; consistency #7; big plays #11.\nFour games describe the start, not established talent.",
+    "next_test": "Green Bay Packers",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 292 OFFENSIVE / 192 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 5,
+      "value": 0.1663126560437392,
+      "offense": 0.1070449547053485,
+      "allowed": -0.0592677013383906,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 7,
+      "value": 6.799372146118721,
+      "offense": 47.94520547945205,
+      "allowed": 41.14583333333333,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 11,
+      "value": 1.0630707762557083,
+      "offense": 10.95890410958904,
+      "allowed": 9.895833333333332,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "chicago-bears-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #5; consistency #7; big plays #11. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Cincinnati Bengals",
+    "team_code": "CIN",
+    "city": "Cincinnati",
+    "nickname": "Bengals",
+    "primary": "#fb4f14",
+    "secondary": "#000000",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #12; consistency #10; big plays #25.\nFour games describe the start, not established talent.",
+    "next_test": "Miami Dolphins",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 247 OFFENSIVE / 235 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 12,
+      "value": 0.0801618515616476,
+      "offense": 0.0549085595355862,
+      "allowed": -0.0252532920260614,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 10,
+      "value": 2.811611680592648,
+      "offense": 44.93927125506073,
+      "allowed": 42.12765957446808,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 25,
+      "value": -2.156947196140925,
+      "offense": 8.906882591093117,
+      "allowed": 11.063829787234042,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "cincinnati-bengals-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #12; consistency #10; big plays #25. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Cleveland Browns",
+    "team_code": "CLE",
+    "city": "Cleveland",
+    "nickname": "Browns",
+    "primary": "#472a08",
+    "secondary": "#ff3c00",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #16; consistency #19; big plays #30.\nFour games describe the start, not established talent.",
+    "next_test": "New York Jets",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 223 OFFENSIVE / 252 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 16,
+      "value": -0.0421948721158649,
+      "offense": -0.022395001402893,
+      "allowed": 0.0197998707129719,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 19,
+      "value": -1.3951170901843497,
+      "offense": 43.04932735426009,
+      "allowed": 44.44444444444444,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 30,
+      "value": -4.281443519111679,
+      "offense": 7.623318385650224,
+      "allowed": 11.904761904761903,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "cleveland-browns-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #16; consistency #19; big plays #30. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Dallas Cowboys",
+    "team_code": "DAL",
+    "city": "Dallas",
+    "nickname": "Cowboys",
+    "primary": "#002a5c",
+    "secondary": "#b0b7bc",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #15; consistency #25; big plays #31.\nFour games describe the start, not established talent.",
+    "next_test": "Tampa Bay Buccaneers",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 250 OFFENSIVE / 240 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 15,
+      "value": -0.0385315486387224,
+      "offense": 0.1624807633810079,
+      "allowed": 0.2010123120197303,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 25,
+      "value": -4.900000000000006,
+      "offense": 47.6,
+      "allowed": 52.5,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 31,
+      "value": -5.699999999999999,
+      "offense": 6.800000000000001,
+      "allowed": 12.5,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "dallas-cowboys-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #15; consistency #25; big plays #31. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Denver Broncos",
+    "team_code": "DEN",
+    "city": "Denver",
+    "nickname": "Broncos",
+    "primary": "#0a2343",
+    "secondary": "#fc4c02",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #22; consistency #22; big plays #29.\nFour games describe the start, not established talent.",
+    "next_test": "Los Angeles Chargers",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 226 OFFENSIVE / 261 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 22,
+      "value": -0.0926940825710618,
+      "offense": -0.0295643380994613,
+      "allowed": 0.0631297444716004,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 22,
+      "value": -2.9701963177703163,
+      "offense": 40.70796460176992,
+      "allowed": 43.67816091954023,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 29,
+      "value": -3.648323330959888,
+      "offense": 7.079646017699115,
+      "allowed": 10.727969348659004,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "denver-broncos-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #22; consistency #22; big plays #29. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Detroit Lions",
+    "team_code": "DET",
+    "city": "Detroit",
+    "nickname": "Lions",
+    "primary": "#0076b6",
+    "secondary": "#bbbbbb",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #17; consistency #13; big plays #27.\nFour games describe the start, not established talent.",
+    "next_test": "Arizona Cardinals",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 265 OFFENSIVE / 282 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 17,
+      "value": -0.0440313717054472,
+      "offense": 0.1443512156447118,
+      "allowed": 0.1883825873501591,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 13,
+      "value": 0.8524019804630001,
+      "offense": 49.43396226415094,
+      "allowed": 48.58156028368794,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 27,
+      "value": -3.3319951826575664,
+      "offense": 9.433962264150944,
+      "allowed": 12.76595744680851,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "detroit-lions-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #17; consistency #13; big plays #27. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Green Bay Packers",
+    "team_code": "GB",
+    "city": "Green Bay",
+    "nickname": "Packers",
+    "primary": "#204e32",
+    "secondary": "#ffb612",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Tenth in big plays. Twenty-sixth in efficiency.\nA highlight reel is not a repair manual.",
+    "next_test": "Chicago Bears",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 232 OFFENSIVE / 254 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 26,
+      "value": -0.1238845620096351,
+      "offense": -0.0905781575857723,
+      "allowed": 0.0333064044238627,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 27,
+      "value": -6.051452620146613,
+      "offense": 39.22413793103448,
+      "allowed": 45.2755905511811,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 10,
+      "value": 1.4967417865870214,
+      "offense": 8.189655172413794,
+      "allowed": 6.692913385826772,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "green-bay-packers-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Tenth in big plays. Twenty-sixth in efficiency. A highlight reel is not a repair manual. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Houston Texans",
+    "team_code": "HOU",
+    "city": "Houston",
+    "nickname": "Texans",
+    "primary": "#021018",
+    "secondary": "#eb0028",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #20; consistency #11; big plays #13.\nFour games describe the start, not established talent.",
+    "next_test": "Tennessee Titans",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 250 OFFENSIVE / 253 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 20,
+      "value": -0.0656045993608405,
+      "offense": -0.0262877029813009,
+      "allowed": 0.0393168963795396,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 11,
+      "value": 2.074308300395259,
+      "offense": 41.6,
+      "allowed": 39.52569169960474,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 13,
+      "value": 0.5185770750988148,
+      "offense": 10.4,
+      "allowed": 9.881422924901186,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "houston-texans-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #20; consistency #11; big plays #13. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Indianapolis Colts",
+    "team_code": "IND",
+    "city": "Indianapolis",
+    "nickname": "Colts",
+    "primary": "#003b75",
+    "secondary": "#ffffff",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #27; consistency #18; big plays #18.\nFour games describe the start, not established talent.",
+    "next_test": "Pittsburgh Steelers",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 251 OFFENSIVE / 250 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 27,
+      "value": -0.1350391075166719,
+      "offense": -0.0662208531829008,
+      "allowed": 0.068818254333771,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 18,
+      "value": -1.3721115537848618,
+      "offense": 43.02788844621514,
+      "allowed": 44.4,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 18,
+      "value": -0.8366533864541825,
+      "offense": 9.163346613545816,
+      "allowed": 10.0,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "indianapolis-colts-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #27; consistency #18; big plays #18. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Jacksonville Jaguars",
+    "team_code": "JAX",
+    "city": "Jacksonville",
+    "nickname": "Jaguars",
+    "primary": "#007487",
+    "secondary": "#d7a22a",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #2; consistency #8; big plays #9.\nFour games describe the start, not established talent.",
+    "next_test": "Philadelphia Eagles",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 219 OFFENSIVE / 236 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 2,
+      "value": 0.2424153987478747,
+      "offense": 0.1832806550569725,
+      "allowed": -0.0591347436909021,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 8,
+      "value": 5.703892887547404,
+      "offense": 49.77168949771689,
+      "allowed": 44.06779661016949,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 9,
+      "value": 1.6039780202770668,
+      "offense": 10.50228310502283,
+      "allowed": 8.898305084745763,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "jacksonville-jaguars-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #2; consistency #8; big plays #9. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Kansas City Chiefs",
+    "team_code": "KC",
+    "city": "Kansas City",
+    "nickname": "Chiefs",
+    "primary": "#e31837",
+    "secondary": "#ffb612",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #3; consistency #5; big plays #7.\nFour games describe the start, not established talent.",
+    "next_test": "BYE \u2014 Week 5",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 248 OFFENSIVE / 251 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 3,
+      "value": 0.2303855879298174,
+      "offense": 0.1760367390006333,
+      "allowed": -0.0543488489291841,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 5,
+      "value": 7.754466006939978,
+      "offense": 48.79032258064516,
+      "allowed": 41.03585657370518,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 7,
+      "value": 3.331833954504562,
+      "offense": 12.096774193548388,
+      "allowed": 8.764940239043826,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "kansas-city-chiefs-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #3; consistency #5; big plays #7. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Los Angeles Rams",
+    "team_code": "LA",
+    "city": "Los Angeles",
+    "nickname": "Rams",
+    "primary": "#003594",
+    "secondary": "#ffd100",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #6; consistency #4; big plays #3.\nFour games describe the start, not established talent.",
+    "next_test": "Buffalo Bills",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 268 OFFENSIVE / 237 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 6,
+      "value": 0.1584977513818,
+      "offense": 0.0262206278566188,
+      "allowed": -0.1322771235251811,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 4,
+      "value": 8.196359972290452,
+      "offense": 47.01492537313433,
+      "allowed": 38.81856540084388,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 3,
+      "value": 4.589394798161092,
+      "offense": 10.07462686567164,
+      "allowed": 5.485232067510549,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "los-angeles-rams-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #6; consistency #4; big plays #3. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Los Angeles Chargers",
+    "team_code": "LAC",
+    "city": "Los Angeles",
+    "nickname": "Chargers",
+    "primary": "#0080c6",
+    "secondary": "#ffc20e",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #28; consistency #23; big plays #16.\nFour games describe the start, not established talent.",
+    "next_test": "Denver Broncos",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 245 OFFENSIVE / 244 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 28,
+      "value": -0.151802215800426,
+      "offense": -0.1591677764136726,
+      "allowed": -0.0073655606132466,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 23,
+      "value": -3.444295751087317,
+      "offense": 40.40816326530612,
+      "allowed": 43.85245901639344,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 16,
+      "value": -0.4483104717296751,
+      "offense": 9.387755102040815,
+      "allowed": 9.836065573770492,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "los-angeles-chargers-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #28; consistency #23; big plays #16. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Las Vegas Raiders",
+    "team_code": "LV",
+    "city": "Las Vegas",
+    "nickname": "Raiders",
+    "primary": "#000000",
+    "secondary": "#a5acaf",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #8; consistency #16; big plays #21.\nFour games describe the start, not established talent.",
+    "next_test": "New England Patriots",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 257 OFFENSIVE / 241 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 8,
+      "value": 0.1122592192875337,
+      "offense": 0.0120657014398027,
+      "allowed": -0.100193517847731,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 16,
+      "value": 0.0629672086152055,
+      "offense": 42.80155642023346,
+      "allowed": 42.738589211618255,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 21,
+      "value": -1.372362239049357,
+      "offense": 8.171206225680933,
+      "allowed": 9.54356846473029,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "las-vegas-raiders-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #8; consistency #16; big plays #21. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Miami Dolphins",
+    "team_code": "MIA",
+    "city": "Miami",
+    "nickname": "Dolphins",
+    "primary": "#008e97",
+    "secondary": "#fc4c02",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Last in efficiency and consistency.\nThe big-play ranking is less ugly;\nthe ordinary snaps still need repairs.",
+    "next_test": "Cincinnati Bengals",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 210 OFFENSIVE / 229 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 32,
+      "value": -0.2395454476541809,
+      "offense": -0.1405647005210008,
+      "allowed": 0.0989807471331801,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 32,
+      "value": -11.962986067789563,
+      "offense": 34.76190476190476,
+      "allowed": 46.72489082969432,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 19,
+      "value": -0.9565398211686418,
+      "offense": 9.523809523809524,
+      "allowed": 10.480349344978166,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "miami-dolphins-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Last in efficiency and consistency. The big-play ranking is less ugly; the ordinary snaps still need repairs. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Minnesota Vikings",
+    "team_code": "MIN",
+    "city": "Minnesota",
+    "nickname": "Vikings",
+    "primary": "#4f2683",
+    "secondary": "#ffc62f",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #11; consistency #15; big plays #26.\nFour games describe the start, not established talent.",
+    "next_test": "New Orleans Saints",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 233 OFFENSIVE / 237 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 11,
+      "value": 0.0814971270622796,
+      "offense": -0.1026584467623961,
+      "allowed": -0.1841555738246758,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 15,
+      "value": 0.1358178953658964,
+      "offense": 33.047210300429185,
+      "allowed": 32.91139240506329,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 26,
+      "value": -2.408504011155176,
+      "offense": 7.296137339055794,
+      "allowed": 9.70464135021097,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "minnesota-vikings-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #11; consistency #15; big plays #26. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "New England Patriots",
+    "team_code": "NE",
+    "city": "New England",
+    "nickname": "Patriots",
+    "primary": "#002a5c",
+    "secondary": "#c60c30",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #18; consistency #14; big plays #12.\nFour games describe the start, not established talent.",
+    "next_test": "Las Vegas Raiders",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 249 OFFENSIVE / 227 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 18,
+      "value": -0.0511004172988854,
+      "offense": -0.0536387379405652,
+      "allowed": -0.0025383206416798,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 14,
+      "value": 0.6811386515223887,
+      "offense": 42.971887550200805,
+      "allowed": 42.290748898678416,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 12,
+      "value": 0.8279815296428001,
+      "offense": 9.63855421686747,
+      "allowed": 8.81057268722467,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "new-england-patriots-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #18; consistency #14; big plays #12. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "New Orleans Saints",
+    "team_code": "NO",
+    "city": "New Orleans",
+    "nickname": "Saints",
+    "primary": "#d3bc8d",
+    "secondary": "#000000",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #30; consistency #30; big plays #28.\nFour games describe the start, not established talent.",
+    "next_test": "Minnesota Vikings",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 289 OFFENSIVE / 243 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 30,
+      "value": -0.1652173473534587,
+      "offense": -0.0101094218005331,
+      "allowed": 0.1551079255529255,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 30,
+      "value": -7.972717046150329,
+      "offense": 44.29065743944637,
+      "allowed": 52.2633744855967,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 28,
+      "value": -3.433152491207085,
+      "offense": 7.26643598615917,
+      "allowed": 10.699588477366255,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "new-orleans-saints-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #30; consistency #30; big plays #28. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "New York Giants",
+    "team_code": "NYG",
+    "city": "New York",
+    "nickname": "Giants",
+    "primary": "#003c7f",
+    "secondary": "#c9243f",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #19; consistency #28; big plays #24.\nFour games describe the start, not established talent.",
+    "next_test": "Washington Commanders",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 238 OFFENSIVE / 228 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 19,
+      "value": -0.0641168130983351,
+      "offense": -0.0483193927811406,
+      "allowed": 0.0157974203171945,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 28,
+      "value": -6.575261683620816,
+      "offense": 39.91596638655462,
+      "allowed": 46.49122807017544,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 24,
+      "value": -2.030812324929971,
+      "offense": 6.302521008403361,
+      "allowed": 8.333333333333332,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "new-york-giants-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #19; consistency #28; big plays #24. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "New York Jets",
+    "team_code": "NYJ",
+    "city": "New York",
+    "nickname": "Jets",
+    "primary": "#115740",
+    "secondary": "#ffffff",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #14; consistency #26; big plays #14.\nFour games describe the start, not established talent.",
+    "next_test": "Cleveland Browns",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 224 OFFENSIVE / 247 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 14,
+      "value": 0.0183527137524248,
+      "offense": 0.0181131985656741,
+      "allowed": -0.0002395151867506,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 26,
+      "value": -5.6427125506072855,
+      "offense": 43.75,
+      "allowed": 49.392712550607285,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 14,
+      "value": 0.4265471370734541,
+      "offense": 8.928571428571429,
+      "allowed": 8.502024291497975,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "new-york-jets-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #14; consistency #26; big plays #14. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Philadelphia Eagles",
+    "team_code": "PHI",
+    "city": "Philadelphia",
+    "nickname": "Eagles",
+    "primary": "#06424d",
+    "secondary": "#000000",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #31; consistency #31; big plays #15.\nFour games describe the start, not established talent.",
+    "next_test": "Jacksonville Jaguars",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 228 OFFENSIVE / 261 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 31,
+      "value": -0.1823511332916118,
+      "offense": -0.1074524339937072,
+      "allowed": 0.0748986992979046,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 31,
+      "value": -9.462593264771122,
+      "offense": 37.280701754385966,
+      "allowed": 46.74329501915709,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 15,
+      "value": -0.2066948981649528,
+      "offense": 7.456140350877193,
+      "allowed": 7.662835249042145,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "philadelphia-eagles-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #31; consistency #31; big plays #15. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Pittsburgh Steelers",
+    "team_code": "PIT",
+    "city": "Pittsburgh",
+    "nickname": "Steelers",
+    "primary": "#000000",
+    "secondary": "#ffb612",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #25; consistency #24; big plays #23.\nFour games describe the start, not established talent.",
+    "next_test": "Indianapolis Colts",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 248 OFFENSIVE / 224 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 25,
+      "value": -0.1061078643274644,
+      "offense": -0.1068846686317046,
+      "allowed": -0.0007768043042401,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 24,
+      "value": -4.853110599078335,
+      "offense": 41.12903225806452,
+      "allowed": 45.98214285714285,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 23,
+      "value": -1.8865207373271904,
+      "offense": 9.274193548387096,
+      "allowed": 11.160714285714286,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "pittsburgh-steelers-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #25; consistency #24; big plays #23. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Seattle Seahawks",
+    "team_code": "SEA",
+    "city": "Seattle",
+    "nickname": "Seahawks",
+    "primary": "#002a5c",
+    "secondary": "#69be28",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #7; consistency #6; big plays #4.\nFour games describe the start, not established talent.",
+    "next_test": "San Francisco 49ers",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 234 OFFENSIVE / 245 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 7,
+      "value": 0.1541841914855177,
+      "offense": 0.0176067291123713,
+      "allowed": -0.1365774623731464,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 6,
+      "value": 7.709750566893419,
+      "offense": 44.44444444444444,
+      "allowed": 36.734693877551024,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 4,
+      "value": 4.542124542124541,
+      "offense": 10.256410256410255,
+      "allowed": 5.714285714285714,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "seattle-seahawks-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #7; consistency #6; big plays #4. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "San Francisco 49ers",
+    "team_code": "SF",
+    "city": "San Francisco",
+    "nickname": "49ers",
+    "primary": "#aa0000",
+    "secondary": "#b3995d",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "First in efficiency. First in big-play balance.\nFour games make a strong opening argument,\nnot a lifetime warranty.",
+    "next_test": "Seattle Seahawks",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 222 OFFENSIVE / 256 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 1,
+      "value": 0.2775308353172249,
+      "offense": 0.2906030258788276,
+      "allowed": 0.0130721905616026,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 3,
+      "value": 9.192004504504505,
+      "offense": 54.5045045045045,
+      "allowed": 45.3125,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 1,
+      "value": 10.448338963963964,
+      "offense": 13.963963963963964,
+      "allowed": 3.515625,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "san-francisco-49ers-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "First in efficiency. First in big-play balance. Four games make a strong opening argument, not a lifetime warranty. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Tampa Bay Buccaneers",
+    "team_code": "TB",
+    "city": "Tampa Bay",
+    "nickname": "Buccaneers",
+    "primary": "#bd1c36",
+    "secondary": "#3e3a35",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #23; consistency #20; big plays #17.\nFour games describe the start, not established talent.",
+    "next_test": "Dallas Cowboys",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 238 OFFENSIVE / 222 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 23,
+      "value": -0.0942799773799695,
+      "offense": -0.1535276045337079,
+      "allowed": -0.0592476271537383,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 20,
+      "value": -1.4346279052161393,
+      "offense": 38.655462184873954,
+      "allowed": 40.090090090090094,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 17,
+      "value": -0.5148005148005144,
+      "offense": 7.142857142857142,
+      "allowed": 7.657657657657657,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "tampa-bay-buccaneers-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #23; consistency #20; big plays #17. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Tennessee Titans",
+    "team_code": "TEN",
+    "city": "Tennessee",
+    "nickname": "Titans",
+    "primary": "#4495d2",
+    "secondary": "#001532",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #29; consistency #21; big plays #22.\nFour games describe the start, not established talent.",
+    "next_test": "Houston Texans",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 215 OFFENSIVE / 248 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 29,
+      "value": -0.1554843827148177,
+      "offense": -0.090605622518866,
+      "allowed": 0.0648787601959516,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 21,
+      "value": -2.214928732183047,
+      "offense": 40.93023255813954,
+      "allowed": 43.14516129032258,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 22,
+      "value": -1.7704426106526636,
+      "offense": 7.906976744186046,
+      "allowed": 9.67741935483871,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "tennessee-titans-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #29; consistency #21; big plays #22. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Washington Commanders",
+    "team_code": "WAS",
+    "city": "Washington",
+    "nickname": "Commanders",
+    "primary": "#5a1414",
+    "secondary": "#ffb612",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Efficiency #21; consistency #29; big plays #20.\nFour games describe the start, not established talent.",
+    "next_test": "New York Giants",
+    "next_question": "Can the team improve its weakest measure in the next game?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 258 OFFENSIVE / 233 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 21,
+      "value": -0.0729995893343324,
+      "offense": -0.0412606454847546,
+      "allowed": 0.0317389438495778,
+      "meaning": "Net expected scoring value per play."
+    },
+    "consistency": {
+      "rank": 29,
+      "value": -7.163056858635258,
+      "offense": 38.75968992248063,
+      "allowed": 45.92274678111588,
+      "meaning": "Positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 20,
+      "value": -1.2609375519845631,
+      "offense": 7.751937984496124,
+      "allowed": 9.012875536480689,
+      "meaning": "Explosive gains generated minus allowed."
+    },
+    "filename": "washington-commanders-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Efficiency #21; consistency #29; big plays #20. Four games describe the start, not established talent. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  }
+]

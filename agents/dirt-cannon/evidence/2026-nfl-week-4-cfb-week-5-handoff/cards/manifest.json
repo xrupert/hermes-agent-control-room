@@ -1,0 +1,52 @@
+{
+  "renderer": "three-numbers-jacksonville-v2",
+  "count": 6,
+  "cards": [
+    {
+      "rank": 1,
+      "name": "San Francisco 49ers",
+      "file": "san-francisco-49ers-nfl-2026-week-4-three-numbers-dirt-canon.png",
+      "sha256": "2a63c30091eb4fba092a4471f433b96c4aed43ac0a0ee4379096ff9bd8db72e7"
+    },
+    {
+      "rank": 2,
+      "name": "Baltimore Ravens",
+      "file": "baltimore-ravens-nfl-2026-week-4-three-numbers-dirt-canon.png",
+      "sha256": "3d41ba0cf0af9db6776281ae8ee651552f8fd7644d08d424d5c8ac6c76ef46dc"
+    },
+    {
+      "rank": 3,
+      "name": "Atlanta Falcons",
+      "file": "atlanta-falcons-nfl-2026-week-4-three-numbers-dirt-canon.png",
+      "sha256": "53abd0b4d945f2050db9beed111df7bb0e839f31bd7f3d98e013e7436ac14947"
+    },
+    {
+      "rank": 4,
+      "name": "Arizona Cardinals",
+      "file": "arizona-cardinals-nfl-2026-week-4-three-numbers-dirt-canon.png",
+      "sha256": "293eb55304252a74d8174fd42c59fb0ca2a87be2dd43d54963453e54f1e451af"
+    },
+    {
+      "rank": 5,
+      "name": "Miami Dolphins",
+      "file": "miami-dolphins-nfl-2026-week-4-three-numbers-dirt-canon.png",
+      "sha256": "ecfe83cc7d4a13db0deafe16178927cd4f9ffe8adadf119f8afb4fc2c0edb0ca"
+    },
+    {
+      "rank": 6,
+      "name": "Green Bay Packers",
+      "file": "green-bay-packers-nfl-2026-week-4-three-numbers-dirt-canon.png",
+      "sha256": "01139fa226b02563011fd9f4b26e785118c9bc8b77b2514c5b3387bee59d9d94"
+    }
+  ],
+  "extras": [
+    {
+      "file": "source_input.json",
+      "sha256": "4a1f2be81190ebae370ef89370bfb5a8dc66b5984b7582cc6278559f93b7cd24"
+    },
+    {
+      "file": "captions.md",
+      "sha256": "68cfe9cd4a1817c9cf478e8becf337e28255a76312c06244a0b4fa7b6ed23d62"
+    }
+  ]
+}

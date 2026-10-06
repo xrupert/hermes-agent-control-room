@@ -1,0 +1,24 @@
+{
+  "cards": 6,
+  "all_text_fits": true,
+  "dimensions": [
+    1080,
+    1350
+  ],
+  "visual_inspection": [
+    "six-card preview",
+    "San Francisco full size",
+    "Arizona full size",
+    "Miami full size"
+  ],
+  "ocr_checked": [
+    "San Francisco",
+    "Atlanta",
+    "Miami"
+  ],
+  "ocr_note": "OCR struggles with distressed rank/headline text; actual pixels and exact layout records also inspected. No claim of perfect OCR recognition.",
+  "logo_asset_restored_from_user_original": true,
+  "remote_repo_fixed": false,
+  "layout_code_changed": false,
+  "college_cards_released": false
+}

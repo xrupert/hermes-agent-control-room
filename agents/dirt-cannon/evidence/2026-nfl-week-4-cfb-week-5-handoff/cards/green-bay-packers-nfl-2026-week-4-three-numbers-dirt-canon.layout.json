@@ -1,0 +1,442 @@
+{
+  "renderer": "three-numbers-jacksonville-v2",
+  "canvas": [
+    1080,
+    1350
+  ],
+  "text_checks": [
+    {
+      "text": "GREEN BAY",
+      "box": [
+        52,
+        39,
+        600,
+        46
+      ],
+      "font_size": 40,
+      "lines": 1,
+      "width": 252.27
+    },
+    {
+      "text": "PACKERS",
+      "box": [
+        52,
+        88,
+        600,
+        128
+      ],
+      "font_size": 106,
+      "lines": 1,
+      "width": 343.3
+    },
+    {
+      "text": "THE DiRT CANON / THREE NUMBERS",
+      "box": [
+        49,
+        260,
+        976,
+        52
+      ],
+      "font_size": 40,
+      "lines": 1,
+      "width": 507.05
+    },
+    {
+      "text": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+      "box": [
+        51,
+        316,
+        975,
+        27
+      ],
+      "font_size": 20,
+      "lines": 1,
+      "width": 554.16
+    },
+    {
+      "text": "1",
+      "box": [
+        79,
+        388,
+        38,
+        52
+      ],
+      "font_size": 43,
+      "lines": 1,
+      "width": 14.22
+    },
+    {
+      "text": "EFFICIENCY",
+      "box": [
+        164,
+        400,
+        250,
+        42
+      ],
+      "font_size": 29,
+      "lines": 1,
+      "width": 115.03
+    },
+    {
+      "text": "-0.124",
+      "box": [
+        454,
+        383,
+        252,
+        80
+      ],
+      "font_size": 67,
+      "lines": 1,
+      "width": 157.62
+    },
+    {
+      "text": "NET EPA\nPER PLAY",
+      "box": [
+        713,
+        393,
+        145,
+        58
+      ],
+      "font_size": 23,
+      "lines": 2,
+      "width": 77.58
+    },
+    {
+      "text": "NFL #26",
+      "box": [
+        891,
+        398,
+        120,
+        44
+      ],
+      "font_size": 30,
+      "lines": 1,
+      "width": 91.91
+    },
+    {
+      "text": "OFFENSE -0.091  \u2212  ALLOWED +0.033  =  -0.124",
+      "box": [
+        66,
+        465,
+        950,
+        30
+      ],
+      "font_size": 21,
+      "lines": 1,
+      "width": 505.62
+    },
+    {
+      "text": "\u00bb",
+      "box": [
+        64,
+        511,
+        33,
+        35
+      ],
+      "font_size": 32,
+      "lines": 1,
+      "width": 18.5
+    },
+    {
+      "text": "Offensive scoring value trailed what the defense allowed.",
+      "box": [
+        109,
+        514,
+        903,
+        33
+      ],
+      "font_size": 23,
+      "lines": 1,
+      "width": 749.16
+    },
+    {
+      "text": "2",
+      "box": [
+        79,
+        583,
+        38,
+        52
+      ],
+      "font_size": 43,
+      "lines": 1,
+      "width": 21.25
+    },
+    {
+      "text": "CONSISTENCY",
+      "box": [
+        164,
+        595,
+        250,
+        42
+      ],
+      "font_size": 29,
+      "lines": 1,
+      "width": 140.16
+    },
+    {
+      "text": "-6.1",
+      "box": [
+        454,
+        578,
+        252,
+        80
+      ],
+      "font_size": 67,
+      "lines": 1,
+      "width": 91.41
+    },
+    {
+      "text": "PERCENTAGE\nPOINTS",
+      "box": [
+        713,
+        588,
+        145,
+        58
+      ],
+      "font_size": 23,
+      "lines": 2,
+      "width": 103.7
+    },
+    {
+      "text": "NFL #27",
+      "box": [
+        891,
+        593,
+        120,
+        44
+      ],
+      "font_size": 30,
+      "lines": 1,
+      "width": 91.91
+    },
+    {
+      "text": "OFFENSE 39.2%  \u2212  ALLOWED 45.3%  \u2248  -6.1 percentage points",
+      "box": [
+        66,
+        660,
+        950,
+        30
+      ],
+      "font_size": 21,
+      "lines": 1,
+      "width": 682.59
+    },
+    {
+      "text": "\u00bb",
+      "box": [
+        64,
+        706,
+        33,
+        35
+      ],
+      "font_size": 32,
+      "lines": 1,
+      "width": 18.5
+    },
+    {
+      "text": "Opponents produced successful snaps more often.",
+      "box": [
+        109,
+        709,
+        903,
+        33
+      ],
+      "font_size": 23,
+      "lines": 1,
+      "width": 657.98
+    },
+    {
+      "text": "3",
+      "box": [
+        79,
+        778,
+        38,
+        52
+      ],
+      "font_size": 43,
+      "lines": 1,
+      "width": 21.25
+    },
+    {
+      "text": "BIG-PLAY BALANCE",
+      "box": [
+        164,
+        790,
+        250,
+        42
+      ],
+      "font_size": 29,
+      "lines": 1,
+      "width": 195.58
+    },
+    {
+      "text": "+1.5",
+      "box": [
+        454,
+        773,
+        252,
+        80
+      ],
+      "font_size": 67,
+      "lines": 1,
+      "width": 94.38
+    },
+    {
+      "text": "PERCENTAGE\nPOINTS",
+      "box": [
+        713,
+        783,
+        145,
+        58
+      ],
+      "font_size": 23,
+      "lines": 2,
+      "width": 103.7
+    },
+    {
+      "text": "NFL #10",
+      "box": [
+        891,
+        788,
+        120,
+        44
+      ],
+      "font_size": 30,
+      "lines": 1,
+      "width": 87.0
+    },
+    {
+      "text": "OFFENSE 8.2%  \u2212  ALLOWED 6.7%  \u2248  +1.5 percentage points",
+      "box": [
+        66,
+        855,
+        950,
+        30
+      ],
+      "font_size": 21,
+      "lines": 1,
+      "width": 657.31
+    },
+    {
+      "text": "\u00bb",
+      "box": [
+        64,
+        901,
+        33,
+        35
+      ],
+      "font_size": 32,
+      "lines": 1,
+      "width": 18.5
+    },
+    {
+      "text": "Positive chunk-play balance has not fixed efficiency.",
+      "box": [
+        109,
+        904,
+        903,
+        33
+      ],
+      "font_size": 23,
+      "lines": 1,
+      "width": 677.2
+    },
+    {
+      "text": "THE VERDICT",
+      "box": [
+        70,
+        973,
+        238,
+        39
+      ],
+      "font_size": 32,
+      "lines": 1,
+      "width": 143.59
+    },
+    {
+      "text": "Tenth in big plays. Twenty-sixth in efficiency.\nA highlight reel is not a repair manual.",
+      "box": [
+        57,
+        1028,
+        970,
+        100
+      ],
+      "font_size": 26,
+      "lines": 2,
+      "width": 735.84
+    },
+    {
+      "text": "NEXT TEST",
+      "box": [
+        67,
+        1146,
+        208,
+        34
+      ],
+      "font_size": 29,
+      "lines": 1,
+      "width": 106.92
+    },
+    {
+      "text": "Chicago Bears",
+      "box": [
+        59,
+        1193,
+        930,
+        37
+      ],
+      "font_size": 28,
+      "lines": 1,
+      "width": 224.3
+    },
+    {
+      "text": "Can the Bears expose the weakest part of this profile?",
+      "box": [
+        59,
+        1236,
+        952,
+        29
+      ],
+      "font_size": 20,
+      "lines": 1,
+      "width": 543.14
+    },
+    {
+      "text": "SAMPLE \u00b7 4 GAMES \u00b7 232 OFFENSIVE / 254 DEFENSIVE PLAYS",
+      "box": [
+        54,
+        1287,
+        715,
+        24
+      ],
+      "font_size": 16,
+      "lines": 1,
+      "width": 520.59
+    },
+    {
+      "text": "THEDIRTCANON.COM",
+      "box": [
+        805,
+        1285,
+        226,
+        30
+      ],
+      "font_size": 23,
+      "lines": 1,
+      "width": 167.33
+    },
+    {
+      "text": "Success: positive EPA. Explosive: pass 20+ / rush 10+ yards. Higher net is better.",
+      "box": [
+        54,
+        1314,
+        974,
+        20
+      ],
+      "font_size": 15,
+      "lines": 1,
+      "width": 612.41
+    }
+  ],
+  "all_text_fits": true
+}

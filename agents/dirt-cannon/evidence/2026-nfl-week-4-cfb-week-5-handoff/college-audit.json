@@ -1,0 +1,75 @@
+{
+  "status": "PROVISIONAL - independent complete slate and play classification not fully reconciled; no public CFB cards",
+  "source_refresh": "2026-10-05T15:38:34Z",
+  "fbs_teams_in_source": 138,
+  "source_games": 390,
+  "week5_source_games": 59,
+  "duplicate_float_play_ids": 36,
+  "exact_duplicates_removed": 1,
+  "duplicate_game_row_ids": 0,
+  "explanation": "id_play is float64 and loses precision; unique game_id/game_row_number retained without dropping distinct plays",
+  "eligible_plays": 49818,
+  "missing_epa": 95,
+  "selection": [
+    {
+      "team": "Texas",
+      "ap_rank": 1,
+      "previous_ap_rank": 1,
+      "poll_timestamp": "2026-10-04T21:10Z"
+    },
+    {
+      "team": "Georgia",
+      "ap_rank": 2,
+      "previous_ap_rank": 2,
+      "poll_timestamp": "2026-10-04T21:10Z"
+    },
+    {
+      "team": "Notre Dame",
+      "ap_rank": 3,
+      "previous_ap_rank": 3,
+      "poll_timestamp": "2026-10-04T21:10Z"
+    },
+    {
+      "team": "Miami",
+      "ap_rank": 4,
+      "previous_ap_rank": 4,
+      "poll_timestamp": "2026-10-04T21:10Z"
+    },
+    {
+      "team": "Ohio State",
+      "ap_rank": 5,
+      "previous_ap_rank": 5,
+      "poll_timestamp": "2026-10-04T21:10Z"
+    },
+    {
+      "team": "Alabama",
+      "ap_rank": 6,
+      "previous_ap_rank": 7,
+      "poll_timestamp": "2026-10-04T21:10Z"
+    },
+    {
+      "team": "Indiana",
+      "ap_rank": 7,
+      "previous_ap_rank": 6,
+      "poll_timestamp": "2026-10-04T21:10Z"
+    },
+    {
+      "team": "BYU",
+      "ap_rank": 8,
+      "previous_ap_rank": 10,
+      "poll_timestamp": "2026-10-04T21:10Z"
+    },
+    {
+      "team": "Ole Miss",
+      "ap_rank": 9,
+      "previous_ap_rank": 9,
+      "poll_timestamp": "2026-10-04T21:10Z"
+    },
+    {
+      "team": "LSU",
+      "ap_rank": 10,
+      "previous_ap_rank": 11,
+      "poll_timestamp": "2026-10-04T21:10Z"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "team": "Arizona Cardinals",
+    "team_code": "ARI",
+    "city": "Arizona",
+    "nickname": "Cardinals",
+    "primary": "#a40227",
+    "secondary": "#ffffff",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Ninth in consistency. Last in big-play balance.\nThe ordinary snaps look better than\nthe damage from the big ones.",
+    "next_test": "Detroit Lions",
+    "next_question": "Can the Lions expose the weakest part of this profile?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 259 OFFENSIVE / 228 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 24,
+      "value": -0.0961394285175038,
+      "offense": -0.0292457044871148,
+      "allowed": 0.066893724030389,
+      "meaning": "Offensive scoring value trailed what the defense allowed."
+    },
+    "consistency": {
+      "rank": 9,
+      "value": 3.349590191695455,
+      "offense": 46.33204633204633,
+      "allowed": 42.98245614035088,
+      "meaning": "Won the successful-play exchange despite its other gaps."
+    },
+    "big_play_balance": {
+      "rank": 32,
+      "value": -7.103908419697893,
+      "offense": 3.861003861003861,
+      "allowed": 10.964912280701752,
+      "meaning": "The league\u2019s worst rate balance of chunk gains."
+    },
+    "filename": "arizona-cardinals-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Ninth in consistency. Last in big-play balance. The ordinary snaps look better than the damage from the big ones. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Atlanta Falcons",
+    "team_code": "ATL",
+    "city": "Atlanta",
+    "nickname": "Falcons",
+    "primary": "#a71930",
+    "secondary": "#000000",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "First in consistency. Thirteenth in efficiency.\nWinning more snaps does not mean winning\nthe most valuable ones.",
+    "next_test": "Baltimore Ravens",
+    "next_question": "Can this profile hold against the Ravens?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 242 OFFENSIVE / 252 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 13,
+      "value": 0.0286367393012167,
+      "offense": -0.027989013961781,
+      "allowed": -0.0566257532629977,
+      "meaning": "Positive overall, but outside the efficiency top ten."
+    },
+    "consistency": {
+      "rank": 1,
+      "value": 11.078315623770171,
+      "offense": 49.17355371900827,
+      "allowed": 38.095238095238095,
+      "meaning": "The largest positive-EPA success-rate advantage in the NFL."
+    },
+    "big_play_balance": {
+      "rank": 5,
+      "value": 3.997769906860817,
+      "offense": 10.743801652892564,
+      "allowed": 6.746031746031746,
+      "meaning": "A top-five balance of chunk gains created and allowed."
+    },
+    "filename": "atlanta-falcons-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "First in consistency. Thirteenth in efficiency. Winning more snaps does not mean winning the most valuable ones. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Baltimore Ravens",
+    "team_code": "BAL",
+    "city": "Baltimore",
+    "nickname": "Ravens",
+    "primary": "#29126f",
+    "secondary": "#000000",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Top four in all three measures.\nBaltimore is winning ordinary snaps\nand the chunk-play exchange.",
+    "next_test": "Atlanta Falcons",
+    "next_question": "Can this profile hold against the Falcons?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 232 OFFENSIVE / 245 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 4,
+      "value": 0.2149980570136052,
+      "offense": 0.1863872940564345,
+      "allowed": -0.0286107629571707,
+      "meaning": "A top-four scoring-value balance through four games."
+    },
+    "consistency": {
+      "rank": 2,
+      "value": 9.275158339197752,
+      "offense": 51.72413793103448,
+      "allowed": 42.44897959183673,
+      "meaning": "Second in positive-EPA success-rate balance."
+    },
+    "big_play_balance": {
+      "rank": 2,
+      "value": 4.836382828993667,
+      "offense": 14.224137931034484,
+      "allowed": 9.387755102040815,
+      "meaning": "Generated chunk gains more often than it surrendered them."
+    },
+    "filename": "baltimore-ravens-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Top four in all three measures. Baltimore is winning ordinary snaps and the chunk-play exchange. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Green Bay Packers",
+    "team_code": "GB",
+    "city": "Green Bay",
+    "nickname": "Packers",
+    "primary": "#204e32",
+    "secondary": "#ffb612",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Tenth in big plays. Twenty-sixth in efficiency.\nA highlight reel is not a repair manual.",
+    "next_test": "Chicago Bears",
+    "next_question": "Can the Bears expose the weakest part of this profile?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 232 OFFENSIVE / 254 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 26,
+      "value": -0.1238845620096351,
+      "offense": -0.0905781575857723,
+      "allowed": 0.0333064044238627,
+      "meaning": "Offensive scoring value trailed what the defense allowed."
+    },
+    "consistency": {
+      "rank": 27,
+      "value": -6.051452620146613,
+      "offense": 39.22413793103448,
+      "allowed": 45.2755905511811,
+      "meaning": "Opponents produced successful snaps more often."
+    },
+    "big_play_balance": {
+      "rank": 10,
+      "value": 1.4967417865870214,
+      "offense": 8.189655172413794,
+      "allowed": 6.692913385826772,
+      "meaning": "Positive chunk-play balance has not fixed efficiency."
+    },
+    "filename": "green-bay-packers-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Tenth in big plays. Twenty-sixth in efficiency. A highlight reel is not a repair manual. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "Miami Dolphins",
+    "team_code": "MIA",
+    "city": "Miami",
+    "nickname": "Dolphins",
+    "primary": "#008e97",
+    "secondary": "#fc4c02",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "Last in efficiency and consistency.\nThe big-play ranking is less ugly;\nthe ordinary snaps still need repairs.",
+    "next_test": "Cincinnati Bengals",
+    "next_question": "Can the Bengals expose the weakest part of this profile?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 210 OFFENSIVE / 229 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 32,
+      "value": -0.2395454476541809,
+      "offense": -0.1405647005210008,
+      "allowed": 0.0989807471331801,
+      "meaning": "The lowest net scoring-value result in the league."
+    },
+    "consistency": {
+      "rank": 32,
+      "value": -11.962986067789563,
+      "offense": 34.76190476190476,
+      "allowed": 46.72489082969432,
+      "meaning": "The largest deficit in positive-EPA successful snaps."
+    },
+    "big_play_balance": {
+      "rank": 19,
+      "value": -0.9565398211686418,
+      "offense": 9.523809523809524,
+      "allowed": 10.480349344978166,
+      "meaning": "Negative chunk-play balance, but not a bottom-five result."
+    },
+    "filename": "miami-dolphins-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "Last in efficiency and consistency. The big-play ranking is less ugly; the ordinary snaps still need repairs. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  },
+  {
+    "team": "San Francisco 49ers",
+    "team_code": "SF",
+    "city": "San Francisco",
+    "nickname": "49ers",
+    "primary": "#aa0000",
+    "secondary": "#b3995d",
+    "period": "2026 NFL \u00b7 SEASON TO DATE \u00b7 W1\u20134 \u00b7 SEP 9\u2013OCT 5",
+    "verdict": "First in efficiency. First in big-play balance.\nFour games make a strong opening argument,\nnot a lifetime warranty.",
+    "next_test": "Seattle Seahawks",
+    "next_question": "Can this profile hold against the Seahawks?",
+    "sample": "SAMPLE \u00b7 4 GAMES \u00b7 222 OFFENSIVE / 256 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 1,
+      "value": 0.2775308353172249,
+      "offense": 0.2906030258788276,
+      "allowed": 0.0130721905616026,
+      "meaning": "The largest net scoring-value advantage in the NFL."
+    },
+    "consistency": {
+      "rank": 3,
+      "value": 9.192004504504505,
+      "offense": 54.5045045045045,
+      "allowed": 45.3125,
+      "meaning": "Successful plays came more often than they were allowed."
+    },
+    "big_play_balance": {
+      "rank": 1,
+      "value": 10.448338963963964,
+      "offense": 13.963963963963964,
+      "allowed": 3.515625,
+      "meaning": "The widest chunk-play advantage in the league."
+    },
+    "filename": "san-francisco-49ers-nfl-2026-week-4-three-numbers-dirt-canon.png",
+    "caption": "First in efficiency. First in big-play balance. Four games make a strong opening argument, not a lifetime warranty. Through NFL Week 4, 2026. Four-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon"
+  }
+]
