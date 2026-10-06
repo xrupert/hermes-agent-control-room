@@ -1,0 +1,434 @@
+[
+  {
+    "team": "San Francisco 49ers",
+    "team_code": "SF",
+    "city": "San Francisco",
+    "nickname": "49ers",
+    "primary": "#aa0000",
+    "secondary": "#b3995d",
+    "period": "2026 NFL · THROUGH WEEK 3 · SEP 9–28 · 3-GAME SAMPLE",
+    "verdict": "First in efficiency. First in big-play balance.\nThree games of receipts; no lifetime warranty.",
+    "next_test": "Denver Broncos",
+    "next_question": "Can the offense sustain its efficiency advantage against Denver?",
+    "sample": "SAMPLE · 3 GAMES · 160 OFFENSIVE / 192 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 1,
+      "value": 0.3637775961382279,
+      "offense": 0.3567106814515159,
+      "allowed": -0.0070669146867119,
+      "meaning": "The largest net scoring-value advantage in the NFL.",
+      "display_value": "+0.364",
+      "unit": "net EPA per play",
+      "rank_label": "NFL NO. 1",
+      "stamp": "TOP EIGHTH",
+      "display_arithmetic": "OFFENSE +0.357 − ALLOWED (-0.007) ≈ +0.364"
+    },
+    "consistency": {
+      "rank": 3,
+      "value": 10.0,
+      "offense": 56.875,
+      "allowed": 46.875,
+      "meaning": "Successful plays arrived more often than they were allowed.",
+      "display_value": "+10.0",
+      "unit": "percentage points",
+      "rank_label": "NFL NO. 3",
+      "stamp": "TOP EIGHTH",
+      "display_arithmetic": "OFFENSE 56.9% − ALLOWED 46.9% ≈ +10.0 percentage points"
+    },
+    "big_play_balance": {
+      "rank": 1,
+      "value": 10.729166666666664,
+      "offense": 14.374999999999998,
+      "allowed": 3.6458333333333335,
+      "meaning": "Created far more chunk gains per snap than it surrendered.",
+      "display_value": "+10.7",
+      "unit": "percentage points",
+      "rank_label": "NFL NO. 1",
+      "stamp": "TOP EIGHTH",
+      "display_arithmetic": "OFFENSE 14.4% − ALLOWED 3.6% ≈ +10.7 percentage points"
+    },
+    "caption": "First in efficiency. First in big-play balance. Three games of receipts; no lifetime warranty. Through NFL Week 3, 2026. Three-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon",
+    "filename": "san-francisco-49ers-nfl-2026-week-3-three-numbers-dirt-canon.png",
+    "template_file": "../template-spec.json",
+    "scope": {
+      "league": "NFL",
+      "season": 2026,
+      "through_week": 3,
+      "type": "season-to-date",
+      "game_dates": [
+        "2026-09-09",
+        "2026-09-28"
+      ],
+      "latest_week_dates": [
+        "2026-09-24",
+        "2026-09-28"
+      ],
+      "research_cutoff": "2026-09-29T08:29:00-04:00",
+      "source_refresh": "2026-09-29T07:32:16-04:00",
+      "rank_population": 32,
+      "games": 3
+    },
+    "rounding_note": "Compute differences from full precision; display arithmetic is approximate because components are rounded.",
+    "visual_status": "Reference and layout supplied; exact visual renderer not yet approved."
+  },
+  {
+    "team": "Seattle Seahawks",
+    "team_code": "SEA",
+    "city": "Seattle",
+    "nickname": "Seahawks",
+    "primary": "#002a5c",
+    "secondary": "#69be28",
+    "period": "2026 NFL · THROUGH WEEK 3 · SEP 9–28 · 3-GAME SAMPLE",
+    "verdict": "Top four in all three measures. A strong\nthree-game profile can still contain a loss.",
+    "next_test": "Los Angeles Chargers",
+    "next_question": "Can more successful snaps produce a larger efficiency margin?",
+    "sample": "SAMPLE · 3 GAMES · 178 OFFENSIVE / 177 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 4,
+      "value": 0.2072214068596267,
+      "offense": 0.0509352206993369,
+      "allowed": -0.1562861861602898,
+      "meaning": "A top-four efficiency balance through three games.",
+      "display_value": "+0.207",
+      "unit": "net EPA per play",
+      "rank_label": "NFL NO. 4",
+      "stamp": "TOP EIGHTH",
+      "display_arithmetic": "OFFENSE +0.051 − ALLOWED (-0.156) ≈ +0.207"
+    },
+    "consistency": {
+      "rank": 2,
+      "value": 10.47419539135403,
+      "offense": 46.06741573033708,
+      "allowed": 35.59322033898305,
+      "meaning": "Opponents succeeded on just 35.6% of eligible plays.",
+      "display_value": "+10.5",
+      "unit": "percentage points",
+      "rank_label": "NFL NO. 2",
+      "stamp": "TOP EIGHTH",
+      "display_arithmetic": "OFFENSE 46.1% − ALLOWED 35.6% ≈ +10.5 percentage points"
+    },
+    "big_play_balance": {
+      "rank": 3,
+      "value": 5.595759537865802,
+      "offense": 9.550561797752808,
+      "allowed": 3.954802259887006,
+      "meaning": "Allowed explosive gains on just 4.0% of eligible snaps.",
+      "display_value": "+5.6",
+      "unit": "percentage points",
+      "rank_label": "NFL NO. 3",
+      "stamp": "TOP EIGHTH",
+      "display_arithmetic": "OFFENSE 9.6% − ALLOWED 4.0% ≈ +5.6 percentage points"
+    },
+    "caption": "Top four in all three measures. A strong three-game profile can still contain a loss. Through NFL Week 3, 2026. Three-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon",
+    "filename": "seattle-seahawks-nfl-2026-week-3-three-numbers-dirt-canon.png",
+    "template_file": "../template-spec.json",
+    "scope": {
+      "league": "NFL",
+      "season": 2026,
+      "through_week": 3,
+      "type": "season-to-date",
+      "game_dates": [
+        "2026-09-09",
+        "2026-09-28"
+      ],
+      "latest_week_dates": [
+        "2026-09-24",
+        "2026-09-28"
+      ],
+      "research_cutoff": "2026-09-29T08:29:00-04:00",
+      "source_refresh": "2026-09-29T07:32:16-04:00",
+      "rank_population": 32,
+      "games": 3
+    },
+    "rounding_note": "Compute differences from full precision; display arithmetic is approximate because components are rounded.",
+    "visual_status": "Reference and layout supplied; exact visual renderer not yet approved."
+  },
+  {
+    "team": "Baltimore Ravens",
+    "team_code": "BAL",
+    "city": "Baltimore",
+    "nickname": "Ravens",
+    "primary": "#29126f",
+    "secondary": "#000000",
+    "period": "2026 NFL · THROUGH WEEK 3 · SEP 9–28 · 3-GAME SAMPLE",
+    "verdict": "Top five across the board. Three games make\na convincing opening argument, not a verdict.",
+    "next_test": "Tennessee Titans",
+    "next_question": "Can Baltimore keep all three measures moving together?",
+    "sample": "SAMPLE · 3 GAMES · 173 OFFENSIVE / 187 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 5,
+      "value": 0.1819384333774139,
+      "offense": 0.1932950539474974,
+      "allowed": 0.0113566205700834,
+      "meaning": "Offensive efficiency exceeded what the defense allowed.",
+      "display_value": "+0.182",
+      "unit": "net EPA per play",
+      "rank_label": "NFL NO. 5",
+      "stamp": "TOP QUARTER",
+      "display_arithmetic": "OFFENSE +0.193 − ALLOWED (+0.011) ≈ +0.182"
+    },
+    "consistency": {
+      "rank": 4,
+      "value": 9.950233377639016,
+      "offense": 54.33526011560693,
+      "allowed": 44.38502673796791,
+      "meaning": "Won the success-rate exchange by nearly 10 points.",
+      "display_value": "+10.0",
+      "unit": "percentage points",
+      "rank_label": "NFL NO. 4",
+      "stamp": "TOP EIGHTH",
+      "display_arithmetic": "OFFENSE 54.3% − ALLOWED 44.4% ≈ +10.0 percentage points"
+    },
+    "big_play_balance": {
+      "rank": 4,
+      "value": 4.825198602825262,
+      "offense": 14.450867052023122,
+      "allowed": 9.62566844919786,
+      "meaning": "Generated chunk gains more often than it allowed them.",
+      "display_value": "+4.8",
+      "unit": "percentage points",
+      "rank_label": "NFL NO. 4",
+      "stamp": "TOP EIGHTH",
+      "display_arithmetic": "OFFENSE 14.5% − ALLOWED 9.6% ≈ +4.8 percentage points"
+    },
+    "caption": "Top five across the board. Three games make a convincing opening argument, not a verdict. Through NFL Week 3, 2026. Three-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon",
+    "filename": "baltimore-ravens-nfl-2026-week-3-three-numbers-dirt-canon.png",
+    "template_file": "../template-spec.json",
+    "scope": {
+      "league": "NFL",
+      "season": 2026,
+      "through_week": 3,
+      "type": "season-to-date",
+      "game_dates": [
+        "2026-09-09",
+        "2026-09-28"
+      ],
+      "latest_week_dates": [
+        "2026-09-24",
+        "2026-09-28"
+      ],
+      "research_cutoff": "2026-09-29T08:29:00-04:00",
+      "source_refresh": "2026-09-29T07:32:16-04:00",
+      "rank_population": 32,
+      "games": 3
+    },
+    "rounding_note": "Compute differences from full precision; display arithmetic is approximate because components are rounded.",
+    "visual_status": "Reference and layout supplied; exact visual renderer not yet approved."
+  },
+  {
+    "team": "Jacksonville Jaguars",
+    "team_code": "JAX",
+    "city": "Jacksonville",
+    "nickname": "Jaguars",
+    "primary": "#007487",
+    "secondary": "#d7a22a",
+    "period": "2026 NFL · THROUGH WEEK 3 · SEP 9–28 · 3-GAME SAMPLE",
+    "verdict": "Second in efficiency. Sixteenth in big plays.\nThe offense works without winning every\nfireworks contest.",
+    "next_test": "Cincinnati Bengals",
+    "next_question": "Can Jacksonville improve the big-play exchange against Cincinnati?",
+    "sample": "SAMPLE · 3 GAMES · 167 OFFENSIVE / 165 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 2,
+      "value": 0.278426681955029,
+      "offense": 0.1740364112125926,
+      "allowed": -0.1043902707424363,
+      "meaning": "Strong efficiency on both sides of the ball.",
+      "display_value": "+0.278",
+      "unit": "net EPA per play",
+      "rank_label": "NFL NO. 2",
+      "stamp": "TOP EIGHTH",
+      "display_arithmetic": "OFFENSE +0.174 − ALLOWED (-0.104) ≈ +0.278"
+    },
+    "consistency": {
+      "rank": 5,
+      "value": 8.46670295772092,
+      "offense": 51.49700598802395,
+      "allowed": 43.03030303030303,
+      "meaning": "Successful plays were more frequent than opponents’ successes.",
+      "display_value": "+8.5",
+      "unit": "percentage points",
+      "rank_label": "NFL NO. 5",
+      "stamp": "TOP QUARTER",
+      "display_arithmetic": "OFFENSE 51.5% − ALLOWED 43.0% ≈ +8.5 percentage points"
+    },
+    "big_play_balance": {
+      "rank": 16,
+      "value": -0.7294501905280342,
+      "offense": 10.179640718562874,
+      "allowed": 10.909090909090908,
+      "meaning": "Allowed chunk gains slightly more often than it created them.",
+      "display_value": "-0.7",
+      "unit": "percentage points",
+      "rank_label": "NFL NO. 16",
+      "stamp": "MIDDLE HALF",
+      "display_arithmetic": "OFFENSE 10.2% − ALLOWED 10.9% ≈ -0.7 percentage points"
+    },
+    "caption": "Second in efficiency. Sixteenth in big plays. The offense works without winning every fireworks contest. Through NFL Week 3, 2026. Three-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon",
+    "filename": "jacksonville-jaguars-nfl-2026-week-3-three-numbers-dirt-canon.png",
+    "template_file": "../template-spec.json",
+    "scope": {
+      "league": "NFL",
+      "season": 2026,
+      "through_week": 3,
+      "type": "season-to-date",
+      "game_dates": [
+        "2026-09-09",
+        "2026-09-28"
+      ],
+      "latest_week_dates": [
+        "2026-09-24",
+        "2026-09-28"
+      ],
+      "research_cutoff": "2026-09-29T08:29:00-04:00",
+      "source_refresh": "2026-09-29T07:32:16-04:00",
+      "rank_population": 32,
+      "games": 3
+    },
+    "rounding_note": "Compute differences from full precision; display arithmetic is approximate because components are rounded.",
+    "visual_status": "Reference and layout supplied; exact visual renderer not yet approved."
+  },
+  {
+    "team": "Kansas City Chiefs",
+    "team_code": "KC",
+    "city": "Kansas City",
+    "nickname": "Chiefs",
+    "primary": "#e31837",
+    "secondary": "#ffb612",
+    "period": "2026 NFL · THROUGH WEEK 3 · SEP 9–28 · 3-GAME SAMPLE",
+    "verdict": "The NFL’s best success-rate balance.\nRepeated small victories pay the same rent.",
+    "next_test": "Las Vegas Raiders",
+    "next_question": "Can Kansas City keep winning the ordinary snaps against Las Vegas?",
+    "sample": "SAMPLE · 3 GAMES · 191 OFFENSIVE / 176 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 3,
+      "value": 0.2761178266663066,
+      "offense": 0.1840248949742394,
+      "allowed": -0.0920929316920672,
+      "meaning": "Positive offensive EPA met negative EPA allowed.",
+      "display_value": "+0.276",
+      "unit": "net EPA per play",
+      "rank_label": "NFL NO. 3",
+      "stamp": "TOP EIGHTH",
+      "display_arithmetic": "OFFENSE +0.184 − ALLOWED (-0.092) ≈ +0.276"
+    },
+    "consistency": {
+      "rank": 1,
+      "value": 12.193598286530218,
+      "offense": 50.26178010471204,
+      "allowed": 38.06818181818182,
+      "meaning": "The league’s largest positive-EPA success-rate advantage.",
+      "display_value": "+12.2",
+      "unit": "percentage points",
+      "rank_label": "NFL NO. 1",
+      "stamp": "TOP EIGHTH",
+      "display_arithmetic": "OFFENSE 50.3% − ALLOWED 38.1% ≈ +12.2 percentage points"
+    },
+    "big_play_balance": {
+      "rank": 6,
+      "value": 3.563779152784389,
+      "offense": 11.518324607329845,
+      "allowed": 7.954545454545454,
+      "meaning": "The big-play exchange also finished in Kansas City’s favor.",
+      "display_value": "+3.6",
+      "unit": "percentage points",
+      "rank_label": "NFL NO. 6",
+      "stamp": "TOP QUARTER",
+      "display_arithmetic": "OFFENSE 11.5% − ALLOWED 8.0% ≈ +3.6 percentage points"
+    },
+    "caption": "The NFL’s best success-rate balance. Repeated small victories pay the same rent. Through NFL Week 3, 2026. Three-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon",
+    "filename": "kansas-city-chiefs-nfl-2026-week-3-three-numbers-dirt-canon.png",
+    "template_file": "../template-spec.json",
+    "scope": {
+      "league": "NFL",
+      "season": 2026,
+      "through_week": 3,
+      "type": "season-to-date",
+      "game_dates": [
+        "2026-09-09",
+        "2026-09-28"
+      ],
+      "latest_week_dates": [
+        "2026-09-24",
+        "2026-09-28"
+      ],
+      "research_cutoff": "2026-09-29T08:29:00-04:00",
+      "source_refresh": "2026-09-29T07:32:16-04:00",
+      "rank_population": 32,
+      "games": 3
+    },
+    "rounding_note": "Compute differences from full precision; display arithmetic is approximate because components are rounded.",
+    "visual_status": "Reference and layout supplied; exact visual renderer not yet approved."
+  },
+  {
+    "team": "Green Bay Packers",
+    "team_code": "GB",
+    "city": "Green Bay",
+    "nickname": "Packers",
+    "primary": "#204e32",
+    "secondary": "#ffb612",
+    "period": "2026 NFL · THROUGH WEEK 3 · SEP 9–28 · 3-GAME SAMPLE",
+    "verdict": "Eighth in big plays. Twenty-ninth in efficiency.\nA highlight reel is not an alibi.",
+    "next_test": "Tampa Bay Buccaneers",
+    "next_question": "Can Green Bay fix the ordinary snaps against Tampa Bay?",
+    "sample": "SAMPLE · 3 GAMES · 180 OFFENSIVE / 193 DEFENSIVE PLAYS",
+    "efficiency": {
+      "rank": 29,
+      "value": -0.1777738157060444,
+      "offense": -0.1220174998010812,
+      "allowed": 0.0557563159049632,
+      "meaning": "The offense lost expected scoring value per play.",
+      "display_value": "-0.178",
+      "unit": "net EPA per play",
+      "rank_label": "NFL NO. 29",
+      "stamp": "BOTTOM EIGHTH",
+      "display_arithmetic": "OFFENSE -0.122 − ALLOWED (+0.056) ≈ -0.178"
+    },
+    "consistency": {
+      "rank": 31,
+      "value": -8.37363270005757,
+      "offense": 37.22222222222222,
+      "allowed": 45.59585492227979,
+      "meaning": "Opponents succeeded more often; the gap ranks 31st.",
+      "display_value": "-8.4",
+      "unit": "percentage points",
+      "rank_label": "NFL NO. 31",
+      "stamp": "BOTTOM EIGHTH",
+      "display_arithmetic": "OFFENSE 37.2% − ALLOWED 45.6% ≈ -8.4 percentage points"
+    },
+    "big_play_balance": {
+      "rank": 8,
+      "value": 2.1531375935521018,
+      "offense": 8.88888888888889,
+      "allowed": 6.735751295336788,
+      "meaning": "A positive chunk-play balance has not fixed the other two.",
+      "display_value": "+2.2",
+      "unit": "percentage points",
+      "rank_label": "NFL NO. 8",
+      "stamp": "TOP QUARTER",
+      "display_arithmetic": "OFFENSE 8.9% − ALLOWED 6.7% ≈ +2.2 percentage points"
+    },
+    "caption": "Eighth in big plays. Twenty-ninth in efficiency. A highlight reel is not an alibi. Through NFL Week 3, 2026. Three-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon",
+    "filename": "green-bay-packers-nfl-2026-week-3-three-numbers-dirt-canon.png",
+    "template_file": "../template-spec.json",
+    "scope": {
+      "league": "NFL",
+      "season": 2026,
+      "through_week": 3,
+      "type": "season-to-date",
+      "game_dates": [
+        "2026-09-09",
+        "2026-09-28"
+      ],
+      "latest_week_dates": [
+        "2026-09-24",
+        "2026-09-28"
+      ],
+      "research_cutoff": "2026-09-29T08:29:00-04:00",
+      "source_refresh": "2026-09-29T07:32:16-04:00",
+      "rank_population": 32,
+      "games": 3
+    },
+    "rounding_note": "Compute differences from full precision; display arithmetic is approximate because components are rounded.",
+    "visual_status": "Reference and layout supplied; exact visual renderer not yet approved."
+  }
+]

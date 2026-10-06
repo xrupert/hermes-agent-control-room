@@ -1,0 +1,241 @@
+{
+  "template_id": "dirt-canon-three-numbers-reference-handoff-v1",
+  "status": "layout specification; not a finished renderer or layered artwork master",
+  "visual_authority": "assets/approved-visual-reference.png",
+  "canvas": {
+    "width": 1080,
+    "height": 1350,
+    "reference_width": 1122,
+    "reference_height": 1402,
+    "coordinate_system": "Reference pixel boxes below; scale x by 1080/1122 and y by 1350/1402"
+  },
+  "approved_overrides": {
+    "series": "THE DiRT CANON / THREE NUMBERS",
+    "compass": "center actual mark alone in upper-right reserved box; remove words below it",
+    "footer": "THEDIRTCANON.COM",
+    "data": "Replace all reference numbers, dates, text, ranks and opponent with card JSON values"
+  },
+  "fixed_art_direction": {
+    "paper": "Warm aged parchment; preserve reference grain and distressed outer ink border",
+    "masthead": "Distressed team-primary painted panel, cream condensed athletic city and large nickname; verified team emblem only",
+    "divider": "Team secondary color",
+    "metric_bands": "Three equal outlined full-width bands; numbered secondary-color tiles; distressed black labels; large net values; right rank badges; tilted distressed rank stamp",
+    "typography": "Match reference athletic block display and typewriter body; exact original font names unavailable, do not claim supplied substitutes are identical",
+    "no_redesign": [
+      "No dashboard columns",
+      "No rounded white panels",
+      "No image-model-generated numbers",
+      "No large watermark",
+      "No new wording below compass"
+    ]
+  },
+  "boxes_reference_pixels": {
+    "team_masthead": [
+      24,
+      14,
+      863,
+      204
+    ],
+    "city": [
+      78,
+      39,
+      490,
+      48
+    ],
+    "nickname": [
+      57,
+      86,
+      500,
+      110
+    ],
+    "team_emblem": [
+      533,
+      36,
+      280,
+      175
+    ],
+    "compass_reserved": [
+      908,
+      12,
+      173,
+      206
+    ],
+    "secondary_divider": [
+      31,
+      221,
+      865,
+      23
+    ],
+    "series": [
+      51,
+      268,
+      1015,
+      45
+    ],
+    "period": [
+      58,
+      326,
+      1008,
+      29
+    ],
+    "metric_rows": [
+      [
+        39,
+        381,
+        1045,
+        193
+      ],
+      [
+        39,
+        592,
+        1045,
+        194
+      ],
+      [
+        39,
+        804,
+        1045,
+        194
+      ]
+    ],
+    "verdict_label": [
+      52,
+      1012,
+      297,
+      49
+    ],
+    "verdict_copy": [
+      69,
+      1075,
+      1000,
+      91
+    ],
+    "next_label": [
+      52,
+      1175,
+      268,
+      45
+    ],
+    "next_opponent": [
+      74,
+      1231,
+      790,
+      31
+    ],
+    "next_question": [
+      74,
+      1269,
+      800,
+      28
+    ],
+    "sample": [
+      64,
+      1330,
+      750,
+      23
+    ],
+    "url": [
+      861,
+      1331,
+      209,
+      29
+    ]
+  },
+  "metric_local_boxes": {
+    "number": [
+      22,
+      12,
+      78,
+      66
+    ],
+    "label": [
+      117,
+      12,
+      365,
+      66
+    ],
+    "value": [
+      460,
+      12,
+      245,
+      73
+    ],
+    "unit": [
+      718,
+      21,
+      149,
+      58
+    ],
+    "rank": [
+      875,
+      12,
+      150,
+      65
+    ],
+    "arithmetic": [
+      31,
+      101,
+      770,
+      29
+    ],
+    "meaning": [
+      76,
+      151,
+      724,
+      33
+    ],
+    "stamp": [
+      817,
+      103,
+      210,
+      78
+    ]
+  },
+  "content_fit_rules": [
+    "Reference measurements are explicit production targets; fit must be checked in the chosen renderer",
+    "Do not compress text horizontally or clip",
+    "Shorten meaning to fit before reducing below readable size",
+    "Verdict at most three lines",
+    "Stamp must not collide with arithmetic or meaning",
+    "Center compass using nontransparent bounds",
+    "Keep negatives signed; percentage points fully spelled out"
+  ],
+  "stamp_policy": {
+    "basis": "Current descriptive NFL rank out of 32; not a talent or confidence rating",
+    "bands": [
+      {
+        "rank_min": 1,
+        "rank_max": 4,
+        "text": "TOP EIGHTH"
+      },
+      {
+        "rank_min": 5,
+        "rank_max": 8,
+        "text": "TOP QUARTER"
+      },
+      {
+        "rank_min": 9,
+        "rank_max": 24,
+        "text": "MIDDLE HALF"
+      },
+      {
+        "rank_min": 25,
+        "rank_max": 28,
+        "text": "BOTTOM QUARTER"
+      },
+      {
+        "rank_min": 29,
+        "rank_max": 32,
+        "text": "BOTTOM EIGHTH"
+      }
+    ],
+    "sample_warning": "Three games; early-season descriptive rankings"
+  },
+  "release_gate": [
+    "Compare against bundled reference before approval",
+    "Verify numbers against JSON",
+    "Check three representative renders at phone size",
+    "Reject layout overflow",
+    "No claim of exact visual reproduction until inspected"
+  ]
+}

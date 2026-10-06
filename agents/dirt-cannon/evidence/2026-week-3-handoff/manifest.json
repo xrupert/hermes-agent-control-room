@@ -1,0 +1,28 @@
+{
+  "files_sha256": {
+    "compute.py": "61aa4899d5564de47174c7d2ce5b51347f3d49e44809df36aa69aa09077d6961",
+    "audit.json": "09699e33637c63f020c0b0bca70747a6cc895f8dbbf0d016c2313d2e1c46678f",
+    "six-teams.json": "66183bac6ab1110105b29bf5a8b61ca580138772b58d9e0215b8c219b88c1127",
+    "README.md": "e39682e661383768c31a0c1ed97d462fdd3d81d6170997033c747468102492ac",
+    "nfl-all-32-metrics.csv": "0784bffb54c67f71565b8ac841a3db0b6670f6826d24ebe4647900ed473ee07b",
+    "template-spec.json": "6c1f233a44713e261a12d7ecb385bbbca99a1b4b61dc066cb622d3cf40afe3bc",
+    "nfl-week3-boxscore-audit.csv": "0863ccbf217a2635b3b5c40c17d56e0e5a44fba47d0ecb0f1079d6d5818fda00",
+    "assets/gb-team.png": "d1eda281e4c4ff5bcb45a9186bbc906bc62262d4c30ac26950951e5f983319b7",
+    "assets/bal-team.png": "67796023c172c9aeab5bcdac9204823d3590097246ad1cb92971134b5f26dcc0",
+    "assets/kc-team.png": "3d77958dc6373768919bb2681cbe1b143f56c07a1f013460def665a5026a7f3d",
+    "assets/jax-team.png": "15cb9a1c77ebfaea885d0d3a34f33dabc4e6a00eb7d5462148fceed641d49397",
+    "assets/compass-sight.png": "9f6fbe5cb5437abf7a22c79d59083ac7d36ba864befe33571954cc3b5838fbdd",
+    "assets/sea-team.png": "2546b1d4fe5cf6c2d75cda53d3fb56bbc4dd43c6b00200586dab5a85df8fa492",
+    "assets/approved-visual-reference.png": "39c8880c68e5113b8f5fb22b9a6b1ad75d19cd38f7c7d677ea0f31aaf7265a57",
+    "assets/sf-team.png": "82ae812f6c15718ce5abdd402863e8b4553fa9971e4baa5d45ff585c52948a45",
+    "cards/seattle-seahawks-nfl-2026-week-3-three-numbers-dirt-canon.json": "60b717a77495ac48752b2d346229cf3b29ba71c6785a457d44e7f1c501b18a8f",
+    "cards/kansas-city-chiefs-nfl-2026-week-3-three-numbers-dirt-canon.json": "2d5880dfaef4a768d81e9ed4409c9d099ac0c967ca34ebb2e2066c83589839fa",
+    "cards/green-bay-packers-nfl-2026-week-3-three-numbers-dirt-canon.json": "139069753ca0ded6154c8a29e670067bf37c90c8ff076635e8f5a77d5eb08916",
+    "cards/baltimore-ravens-nfl-2026-week-3-three-numbers-dirt-canon.json": "facfdd0251ad54c1f23b7331592f427d7989a959e8fdd34534f05823df0ae8d5",
+    "cards/jacksonville-jaguars-nfl-2026-week-3-three-numbers-dirt-canon.json": "a40f0e3a005c93eb5599bf54cb9ba32d0fc16295dc671907ef8ac8e4b874a94d",
+    "cards/san-francisco-49ers-nfl-2026-week-3-three-numbers-dirt-canon.json": "8071109068715021696239237e27ffd69aa448f443f633a965fe5c7bdd2e0a55"
+  },
+  "cards": 6,
+  "metric_arithmetic_checks_passed": 18,
+  "visual_audit": "not rendered; handoff only"
+}

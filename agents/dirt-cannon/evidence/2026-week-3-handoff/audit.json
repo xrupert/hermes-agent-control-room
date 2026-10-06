@@ -1,0 +1,90 @@
+{
+  "duplicate_ids": 0,
+  "nfl_week3_games": 16,
+  "score_checks": [
+    {
+      "game": "2026_03_ATL_GB",
+      "espn_event": "401872948",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_LAC_BUF",
+      "espn_event": "401872953",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_CAR_CLE",
+      "espn_event": "401872949",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_NYJ_DET",
+      "espn_event": "401872954",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_HOU_IND",
+      "espn_event": "401872951",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_KC_MIA",
+      "espn_event": "401872952",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_TEN_NYG",
+      "espn_event": "401872956",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_CIN_PIT",
+      "espn_event": "401872950",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_SEA_WAS",
+      "espn_event": "401872955",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_NE_JAX",
+      "espn_event": "401872957",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_ARI_SF",
+      "espn_event": "401872958",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_MIN_TB",
+      "espn_event": "401872959",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_BAL_DAL",
+      "espn_event": "401872960",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_LV_NO",
+      "espn_event": "401872961",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_LA_DEN",
+      "espn_event": "401872962",
+      "final_score_match": true
+    },
+    {
+      "game": "2026_03_PHI_CHI",
+      "espn_event": "401872963",
+      "final_score_match": true
+    }
+  ],
+  "eligible_season_plays": 5814,
+  "missing_epa": 0,
+  "nfl_refresh": "2026-09-29T11:32:16Z",
+  "repo_commit": "e217da20e569970cd6f456ca219e879dbefff603"
+}

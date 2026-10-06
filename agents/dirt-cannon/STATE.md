@@ -1,5 +1,9 @@
 # Dirt Cannon Studio — Verified State (2026-09-29, pre-handoff)
 
+> **STANDING RULE (2026-10-06): stale gate = cancelled gate.** Any item waiting on an owner decision
+> expires after 24 hours and is cancelled, not carried. Read `decisions/STALE-POLICY.md` before writing
+> any approval table — and never re-ask a gate that was already cancelled.
+
 Verified by engine room before morning session. All paths/claims checked, not assumed.
 
 ## X profile

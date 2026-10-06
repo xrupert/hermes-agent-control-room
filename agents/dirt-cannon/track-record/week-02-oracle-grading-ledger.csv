@@ -1,0 +1,17 @@
+game,projected,actual,winner,moneyline,spread,total,published_site,snapshot_asof_utc,spread_call,total_call,result_source
+DET-BUF,24-28,31-41,WIN,WIN,PASS,PASS,"17/09/2026, 17:27:18",2026-09-17T21:12:58.023279+00:00,No spread edge,No total edge,https://www.nfl.com/games/lions-at-bills-2026-reg-2
+GB-NYJ,26-17,20-17,WIN,WIN,HOLD,PASS,"20/09/2026, 09:55:53",2026-09-20T05:01:18.322041+00:00,GB side (2.8 pts vs market),No total edge,https://www.nfl.com/games/packers-at-jets-2026-reg-2
+CLE-TB,18-21,23-19,LOSS,LOSS,HOLD,WIN,"20/09/2026, 09:55:56",2026-09-20T05:01:18.322041+00:00,CLE side (2.5 pts vs market),Under (2.7 vs market),https://www.nfl.com/games/browns-at-buccaneers-2026-reg-2
+MIN-CHI,18-23,9-3,LOSS,LOSS,HOLD,WIN,"20/09/2026, 09:55:58",2026-09-20T05:01:18.322041+00:00,CHI side (1.6 pts vs market),Under (5.2 vs market),https://www.nfl.com/games/vikings-at-bears-2026-reg-2
+NO-BAL,20-25,24-17,LOSS,LOSS,HOLD,PASS,"20/09/2026, 09:56:01",2026-09-20T05:01:18.322041+00:00,NO side (3.3 pts vs market),No total edge,https://www.nfl.com/games/saints-at-ravens-2026-reg-2
+PHI-TEN,24-18,24-20,WIN,WIN,PASS,PASS,"20/09/2026, 09:56:05",2026-09-20T05:01:18.322041+00:00,No spread edge,No total edge,https://www.nfl.com/games/eagles-at-titans-2026-reg-2
+CIN-HOU,21-27,20-6,LOSS,LOSS,HOLD,PASS,"20/09/2026, 09:56:09",2026-09-20T05:01:18.322041+00:00,HOU side (3.8 pts vs market),No total edge,https://www.nfl.com/games/bengals-at-texans-2026-reg-2
+PIT-NE,18-28,3-20,WIN,WIN,HOLD,PASS,"20/09/2026, 09:56:13",2026-09-20T05:01:18.322041+00:00,NE side (5.7 pts vs market),No total edge,https://www.nfl.com/games/steelers-at-patriots-2026-reg-2
+CAR-ATL,20-23,34-3,LOSS,LOSS,PASS,WIN,"20/09/2026, 09:55:53",2026-09-20T05:01:18.322041+00:00,No spread edge,Under (2.2 vs market),https://www.nfl.com/games/panthers-at-falcons-2026-reg-2
+JAX-DEN,25-21,13-20,LOSS,LOSS,HOLD,LOSS,"20/09/2026, 09:56:17",2026-09-20T08:30:08.243496+00:00,JAX side (6.4 pts vs market),Over (2.5 vs market),https://www.nfl.com/games/jaguars-at-broncos-2026-reg-2
+LV-LAC,14-25,26-14,LOSS,LOSS,HOLD,WIN,"20/09/2026, 09:56:23",2026-09-20T08:30:08.243496+00:00,LAC side (2.3 pts vs market),Under (3.3 vs market),https://www.nfl.com/games/raiders-at-chargers-2026-reg-2
+WAS-DAL,21-24,20-37,WIN,WIN,PASS,LOSS,"20/09/2026, 09:56:32",2026-09-20T08:30:08.243496+00:00,No spread edge,Under (6.7 vs market),https://www.nfl.com/games/commanders-at-cowboys-2026-reg-2
+MIA-SF,20-26,13-35,WIN,WIN,HOLD,PASS,"20/09/2026, 09:56:25",2026-09-20T08:30:08.243496+00:00,MIA side (4.6 pts vs market),No total edge,https://www.nfl.com/games/dolphins-at-49ers-2026-reg-2
+SEA-ARI,27-15,31-7,WIN,WIN,HOLD,WIN,"20/09/2026, 09:56:29",2026-09-20T08:30:08.243496+00:00,SEA side (1.7 pts vs market),Under (2.2 vs market),https://www.nfl.com/games/seahawks-at-cardinals-2026-reg-2
+IND-KC,20-22,30-33,WIN,WIN,HOLD,LOSS,"20/09/2026, 09:56:37",2026-09-20T12:31:52.570536+00:00,IND side (4.8 pts vs market),Under (5.7 vs market),https://www.nfl.com/games/colts-at-chiefs-2026-reg-2
+NYG-LA,UNAVAILABLE,6-28,UNGRADED,WIN,HOLD,LOSS,"21/09/2026, 19:49:00",,NYG side; signed line conflicts,Over 48.5,https://www.nfl.com/games/giants-at-rams-2026-reg-2

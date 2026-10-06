@@ -1,0 +1,72 @@
+{
+  "team": "Baltimore Ravens",
+  "team_code": "BAL",
+  "city": "Baltimore",
+  "nickname": "Ravens",
+  "primary": "#29126f",
+  "secondary": "#000000",
+  "period": "2026 NFL · THROUGH WEEK 3 · SEP 9–28 · 3-GAME SAMPLE",
+  "verdict": "Top five across the board. Three games make\na convincing opening argument, not a verdict.",
+  "next_test": "Tennessee Titans",
+  "next_question": "Can Baltimore keep all three measures moving together?",
+  "sample": "SAMPLE · 3 GAMES · 173 OFFENSIVE / 187 DEFENSIVE PLAYS",
+  "efficiency": {
+    "rank": 5,
+    "value": 0.1819384333774139,
+    "offense": 0.1932950539474974,
+    "allowed": 0.0113566205700834,
+    "meaning": "Offensive efficiency exceeded what the defense allowed.",
+    "display_value": "+0.182",
+    "unit": "net EPA per play",
+    "rank_label": "NFL NO. 5",
+    "stamp": "TOP QUARTER",
+    "display_arithmetic": "OFFENSE +0.193 − ALLOWED (+0.011) ≈ +0.182"
+  },
+  "consistency": {
+    "rank": 4,
+    "value": 9.950233377639016,
+    "offense": 54.33526011560693,
+    "allowed": 44.38502673796791,
+    "meaning": "Won the success-rate exchange by nearly 10 points.",
+    "display_value": "+10.0",
+    "unit": "percentage points",
+    "rank_label": "NFL NO. 4",
+    "stamp": "TOP EIGHTH",
+    "display_arithmetic": "OFFENSE 54.3% − ALLOWED 44.4% ≈ +10.0 percentage points"
+  },
+  "big_play_balance": {
+    "rank": 4,
+    "value": 4.825198602825262,
+    "offense": 14.450867052023122,
+    "allowed": 9.62566844919786,
+    "meaning": "Generated chunk gains more often than it allowed them.",
+    "display_value": "+4.8",
+    "unit": "percentage points",
+    "rank_label": "NFL NO. 4",
+    "stamp": "TOP EIGHTH",
+    "display_arithmetic": "OFFENSE 14.5% − ALLOWED 9.6% ≈ +4.8 percentage points"
+  },
+  "caption": "Top five across the board. Three games make a convincing opening argument, not a verdict. Through NFL Week 3, 2026. Three-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon",
+  "filename": "baltimore-ravens-nfl-2026-week-3-three-numbers-dirt-canon.png",
+  "template_file": "../template-spec.json",
+  "scope": {
+    "league": "NFL",
+    "season": 2026,
+    "through_week": 3,
+    "type": "season-to-date",
+    "game_dates": [
+      "2026-09-09",
+      "2026-09-28"
+    ],
+    "latest_week_dates": [
+      "2026-09-24",
+      "2026-09-28"
+    ],
+    "research_cutoff": "2026-09-29T08:29:00-04:00",
+    "source_refresh": "2026-09-29T07:32:16-04:00",
+    "rank_population": 32,
+    "games": 3
+  },
+  "rounding_note": "Compute differences from full precision; display arithmetic is approximate because components are rounded.",
+  "visual_status": "Reference and layout supplied; exact visual renderer not yet approved."
+}

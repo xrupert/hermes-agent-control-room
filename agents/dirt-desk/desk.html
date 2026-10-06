@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The DiRT Canon — Studio Panel</title>
+<style>
+  :root{
+    --bg:#0e0b09; --panel:#17110d; --panel2:#1f1711; --line:#2e241b;
+    --ink:#e8dcc8; --dim:#a8987e; --faint:#6e6250;
+    --jade:#72f0a8; --gold:#e8b64e; --red:#ff5c4d; --light:#ffe9c9;
+    --mono:"Cascadia Mono","SF Mono",Consolas,monospace;
+    --sans:"Aptos","Segoe UI",system-ui,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%}
+  body{background:var(--bg);color:var(--ink);font:14px/1.5 var(--sans);padding:18px;max-width:1100px;margin:0 auto}
+  header{display:flex;align-items:center;gap:12px;margin-bottom:16px;flex-wrap:wrap}
+  .mark{font:700 22px/1 var(--mono);letter-spacing:-.5px}
+  .mark .b{color:var(--gold)}
+  .tag{margin-left:auto;font:11px var(--mono);color:var(--dim);border:1px solid var(--line);padding:4px 8px;border-radius:20px;background:var(--panel)}
+  h1{font-size:15px;letter-spacing:.16em;text-transform:uppercase;color:var(--light)}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px}
+  .card h2{font:11px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:10px}
+  .card ul{list-style:none}
+  .card li{padding:5px 0;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:8px;align-items:baseline}
+  .card li:last-child{border-bottom:0}
+  .k{color:var(--dim);font-size:13px}
+  .v{text-align:right;color:var(--ink);word-break:break-all;font:12px var(--mono)}
+  .dots{color:var(--faint);font-size:11px}
+  .pill{font:10px var(--mono);padding:2px 7px;border-radius:20px;border:1px solid;white-space:nowrap}
+  .live{color:#0a0f0b;background:var(--jade);border-color:var(--jade);font-weight:700}
+  .standby{color:var(--gold);border-color:var(--gold)}
+  .parked{color:var(--faint);border-color:var(--line)}
+  .warn{color:var(--red);border-color:var(--red)}
+  .note{margin-top:16px;background:var(--panel2);border:1px dashed var(--line);border-radius:10px;padding:12px;font-size:13px;color:var(--dim)}
+  .note code{font:12px var(--mono);color:var(--light)}
+  .note b{color:var(--ink)}
+  .foot{margin-top:16px;font:11px var(--mono);color:var(--faint)}
+  a{color:var(--gold);text-decoration:none}
+</style>
+</head>
+<body>
+<header>
+  <div class="mark">DiRT<span class="b"> Canon</span></div>
+  <span class="pill live">● STUDIO LIVE</span>
+  <span class="tag">ENGINE ROOM — sidebar preview · 2026-09-30</span>
+</header>
+
+<div class="grid">
+  <div class="card">
+    <h2>Agents</h2>
+    <ul>
+      <li><span class="k">Kabloom (studio desk)</span> <span class="v"><span class="pill live">LIVE</span></span></li>
+      <li><span class="k">Kabloom</span> <span class="dots">—</span></li>
+      <li><span class="k">Liensight</span> <span class="v"><span class="pill parked">PARKED</span></span></li>
+      <li><span class="k">Liensight</span> <span class="dots">—</span></li>
+      <li><span class="k">Cybrid Title (Tier 3)</span> <span class="v"><span class="pill parked">PARKED</span></span></li>
+      <li><span class="k">Default (engine)</span> <span class="v"><span class="pill standby">ENGINE</span></span></li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Campaign</h2>
+    <ul>
+      <li><span class="k">Dirt Cannon social studio</span> <span class="v">ACTIVE</span></li>
+      <li><span class="k">First drafts due</span> <span class="v">TODAY</span></li>
+      <li><span class="k">Publishing</span> <span class="v">APPROVAL ONLY</span></li>
+      <li><span class="k">Platforms</span> <span class="v">FB · IG · X · YT · (TT)</span></li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Data / Metrics</h2>
+    <ul>
+      <li><span class="k">Six-team weekly handoff</span> <span class="v">✔ computed</span></li>
+      <li><span class="k">DiRT Canon voice template</span> <span class="v">✔ ready</span></li>
+      <li><span class="k">Passport mirror</span> <span class="v">✔ done</span></li>
+      <li><span class="k">OneDrive backup</span> <span class="v">2× off-machine</span></li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Studio Desk</h2>
+    <ul>
+      <li><span class="k">canonical (Control Room)</span> <span class="v">agents\dirt-desk\</span></li>
+      <li><span class="k">mirror (OneDrive)</span> <span class="v">DiRT Canon_2026\_hermes-studio</span></li>
+      <li><span class="k">blueprint</span> <span class="v">docs\hermes-blueprint.md</span></li>
+      <li><span class="k">voice file</span> <span class="v">DiRT Canon\voice\</span></li>
+    </ul>
+  </div>
+</div>
+
+<div class="note">
+  <b>Earned spots, scripted:</b> Monday 9am — weekly calendar · Sunday 5pm — weekly performance eval. Manual first runs before cron trusts them. <code>agent_rules.md</code> read first; vault is source of truth; never invent a number.
+</div>
+
+<div class="foot">TheDirtCanon.com · local git · OneDrive mirrored · Passport backed · Kabloom owns the studio, you own the calls. — engine room @ Hermes</div>
+</body>
+</html>

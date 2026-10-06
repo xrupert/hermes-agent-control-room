@@ -1,0 +1,72 @@
+{
+  "team": "Kansas City Chiefs",
+  "team_code": "KC",
+  "city": "Kansas City",
+  "nickname": "Chiefs",
+  "primary": "#e31837",
+  "secondary": "#ffb612",
+  "period": "2026 NFL · THROUGH WEEK 3 · SEP 9–28 · 3-GAME SAMPLE",
+  "verdict": "The NFL’s best success-rate balance.\nRepeated small victories pay the same rent.",
+  "next_test": "Las Vegas Raiders",
+  "next_question": "Can Kansas City keep winning the ordinary snaps against Las Vegas?",
+  "sample": "SAMPLE · 3 GAMES · 191 OFFENSIVE / 176 DEFENSIVE PLAYS",
+  "efficiency": {
+    "rank": 3,
+    "value": 0.2761178266663066,
+    "offense": 0.1840248949742394,
+    "allowed": -0.0920929316920672,
+    "meaning": "Positive offensive EPA met negative EPA allowed.",
+    "display_value": "+0.276",
+    "unit": "net EPA per play",
+    "rank_label": "NFL NO. 3",
+    "stamp": "TOP EIGHTH",
+    "display_arithmetic": "OFFENSE +0.184 − ALLOWED (-0.092) ≈ +0.276"
+  },
+  "consistency": {
+    "rank": 1,
+    "value": 12.193598286530218,
+    "offense": 50.26178010471204,
+    "allowed": 38.06818181818182,
+    "meaning": "The league’s largest positive-EPA success-rate advantage.",
+    "display_value": "+12.2",
+    "unit": "percentage points",
+    "rank_label": "NFL NO. 1",
+    "stamp": "TOP EIGHTH",
+    "display_arithmetic": "OFFENSE 50.3% − ALLOWED 38.1% ≈ +12.2 percentage points"
+  },
+  "big_play_balance": {
+    "rank": 6,
+    "value": 3.563779152784389,
+    "offense": 11.518324607329845,
+    "allowed": 7.954545454545454,
+    "meaning": "The big-play exchange also finished in Kansas City’s favor.",
+    "display_value": "+3.6",
+    "unit": "percentage points",
+    "rank_label": "NFL NO. 6",
+    "stamp": "TOP QUARTER",
+    "display_arithmetic": "OFFENSE 11.5% − ALLOWED 8.0% ≈ +3.6 percentage points"
+  },
+  "caption": "The NFL’s best success-rate balance. Repeated small victories pay the same rent. Through NFL Week 3, 2026. Three-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon",
+  "filename": "kansas-city-chiefs-nfl-2026-week-3-three-numbers-dirt-canon.png",
+  "template_file": "../template-spec.json",
+  "scope": {
+    "league": "NFL",
+    "season": 2026,
+    "through_week": 3,
+    "type": "season-to-date",
+    "game_dates": [
+      "2026-09-09",
+      "2026-09-28"
+    ],
+    "latest_week_dates": [
+      "2026-09-24",
+      "2026-09-28"
+    ],
+    "research_cutoff": "2026-09-29T08:29:00-04:00",
+    "source_refresh": "2026-09-29T07:32:16-04:00",
+    "rank_population": 32,
+    "games": 3
+  },
+  "rounding_note": "Compute differences from full precision; display arithmetic is approximate because components are rounded.",
+  "visual_status": "Reference and layout supplied; exact visual renderer not yet approved."
+}

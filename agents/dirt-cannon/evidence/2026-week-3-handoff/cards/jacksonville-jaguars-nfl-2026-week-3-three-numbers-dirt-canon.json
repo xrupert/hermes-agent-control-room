@@ -1,0 +1,72 @@
+{
+  "team": "Jacksonville Jaguars",
+  "team_code": "JAX",
+  "city": "Jacksonville",
+  "nickname": "Jaguars",
+  "primary": "#007487",
+  "secondary": "#d7a22a",
+  "period": "2026 NFL · THROUGH WEEK 3 · SEP 9–28 · 3-GAME SAMPLE",
+  "verdict": "Second in efficiency. Sixteenth in big plays.\nThe offense works without winning every\nfireworks contest.",
+  "next_test": "Cincinnati Bengals",
+  "next_question": "Can Jacksonville improve the big-play exchange against Cincinnati?",
+  "sample": "SAMPLE · 3 GAMES · 167 OFFENSIVE / 165 DEFENSIVE PLAYS",
+  "efficiency": {
+    "rank": 2,
+    "value": 0.278426681955029,
+    "offense": 0.1740364112125926,
+    "allowed": -0.1043902707424363,
+    "meaning": "Strong efficiency on both sides of the ball.",
+    "display_value": "+0.278",
+    "unit": "net EPA per play",
+    "rank_label": "NFL NO. 2",
+    "stamp": "TOP EIGHTH",
+    "display_arithmetic": "OFFENSE +0.174 − ALLOWED (-0.104) ≈ +0.278"
+  },
+  "consistency": {
+    "rank": 5,
+    "value": 8.46670295772092,
+    "offense": 51.49700598802395,
+    "allowed": 43.03030303030303,
+    "meaning": "Successful plays were more frequent than opponents’ successes.",
+    "display_value": "+8.5",
+    "unit": "percentage points",
+    "rank_label": "NFL NO. 5",
+    "stamp": "TOP QUARTER",
+    "display_arithmetic": "OFFENSE 51.5% − ALLOWED 43.0% ≈ +8.5 percentage points"
+  },
+  "big_play_balance": {
+    "rank": 16,
+    "value": -0.7294501905280342,
+    "offense": 10.179640718562874,
+    "allowed": 10.909090909090908,
+    "meaning": "Allowed chunk gains slightly more often than it created them.",
+    "display_value": "-0.7",
+    "unit": "percentage points",
+    "rank_label": "NFL NO. 16",
+    "stamp": "MIDDLE HALF",
+    "display_arithmetic": "OFFENSE 10.2% − ALLOWED 10.9% ≈ -0.7 percentage points"
+  },
+  "caption": "Second in efficiency. Sixteenth in big plays. The offense works without winning every fireworks contest. Through NFL Week 3, 2026. Three-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon",
+  "filename": "jacksonville-jaguars-nfl-2026-week-3-three-numbers-dirt-canon.png",
+  "template_file": "../template-spec.json",
+  "scope": {
+    "league": "NFL",
+    "season": 2026,
+    "through_week": 3,
+    "type": "season-to-date",
+    "game_dates": [
+      "2026-09-09",
+      "2026-09-28"
+    ],
+    "latest_week_dates": [
+      "2026-09-24",
+      "2026-09-28"
+    ],
+    "research_cutoff": "2026-09-29T08:29:00-04:00",
+    "source_refresh": "2026-09-29T07:32:16-04:00",
+    "rank_population": 32,
+    "games": 3
+  },
+  "rounding_note": "Compute differences from full precision; display arithmetic is approximate because components are rounded.",
+  "visual_status": "Reference and layout supplied; exact visual renderer not yet approved."
+}

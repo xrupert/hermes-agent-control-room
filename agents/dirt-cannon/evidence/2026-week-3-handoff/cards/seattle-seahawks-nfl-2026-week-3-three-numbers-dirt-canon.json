@@ -1,0 +1,72 @@
+{
+  "team": "Seattle Seahawks",
+  "team_code": "SEA",
+  "city": "Seattle",
+  "nickname": "Seahawks",
+  "primary": "#002a5c",
+  "secondary": "#69be28",
+  "period": "2026 NFL · THROUGH WEEK 3 · SEP 9–28 · 3-GAME SAMPLE",
+  "verdict": "Top four in all three measures. A strong\nthree-game profile can still contain a loss.",
+  "next_test": "Los Angeles Chargers",
+  "next_question": "Can more successful snaps produce a larger efficiency margin?",
+  "sample": "SAMPLE · 3 GAMES · 178 OFFENSIVE / 177 DEFENSIVE PLAYS",
+  "efficiency": {
+    "rank": 4,
+    "value": 0.2072214068596267,
+    "offense": 0.0509352206993369,
+    "allowed": -0.1562861861602898,
+    "meaning": "A top-four efficiency balance through three games.",
+    "display_value": "+0.207",
+    "unit": "net EPA per play",
+    "rank_label": "NFL NO. 4",
+    "stamp": "TOP EIGHTH",
+    "display_arithmetic": "OFFENSE +0.051 − ALLOWED (-0.156) ≈ +0.207"
+  },
+  "consistency": {
+    "rank": 2,
+    "value": 10.47419539135403,
+    "offense": 46.06741573033708,
+    "allowed": 35.59322033898305,
+    "meaning": "Opponents succeeded on just 35.6% of eligible plays.",
+    "display_value": "+10.5",
+    "unit": "percentage points",
+    "rank_label": "NFL NO. 2",
+    "stamp": "TOP EIGHTH",
+    "display_arithmetic": "OFFENSE 46.1% − ALLOWED 35.6% ≈ +10.5 percentage points"
+  },
+  "big_play_balance": {
+    "rank": 3,
+    "value": 5.595759537865802,
+    "offense": 9.550561797752808,
+    "allowed": 3.954802259887006,
+    "meaning": "Allowed explosive gains on just 4.0% of eligible snaps.",
+    "display_value": "+5.6",
+    "unit": "percentage points",
+    "rank_label": "NFL NO. 3",
+    "stamp": "TOP EIGHTH",
+    "display_arithmetic": "OFFENSE 9.6% − ALLOWED 4.0% ≈ +5.6 percentage points"
+  },
+  "caption": "Top four in all three measures. A strong three-game profile can still contain a loss. Through NFL Week 3, 2026. Three-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon",
+  "filename": "seattle-seahawks-nfl-2026-week-3-three-numbers-dirt-canon.png",
+  "template_file": "../template-spec.json",
+  "scope": {
+    "league": "NFL",
+    "season": 2026,
+    "through_week": 3,
+    "type": "season-to-date",
+    "game_dates": [
+      "2026-09-09",
+      "2026-09-28"
+    ],
+    "latest_week_dates": [
+      "2026-09-24",
+      "2026-09-28"
+    ],
+    "research_cutoff": "2026-09-29T08:29:00-04:00",
+    "source_refresh": "2026-09-29T07:32:16-04:00",
+    "rank_population": 32,
+    "games": 3
+  },
+  "rounding_note": "Compute differences from full precision; display arithmetic is approximate because components are rounded.",
+  "visual_status": "Reference and layout supplied; exact visual renderer not yet approved."
+}

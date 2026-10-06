@@ -1,0 +1,72 @@
+{
+  "team": "San Francisco 49ers",
+  "team_code": "SF",
+  "city": "San Francisco",
+  "nickname": "49ers",
+  "primary": "#aa0000",
+  "secondary": "#b3995d",
+  "period": "2026 NFL · THROUGH WEEK 3 · SEP 9–28 · 3-GAME SAMPLE",
+  "verdict": "First in efficiency. First in big-play balance.\nThree games of receipts; no lifetime warranty.",
+  "next_test": "Denver Broncos",
+  "next_question": "Can the offense sustain its efficiency advantage against Denver?",
+  "sample": "SAMPLE · 3 GAMES · 160 OFFENSIVE / 192 DEFENSIVE PLAYS",
+  "efficiency": {
+    "rank": 1,
+    "value": 0.3637775961382279,
+    "offense": 0.3567106814515159,
+    "allowed": -0.0070669146867119,
+    "meaning": "The largest net scoring-value advantage in the NFL.",
+    "display_value": "+0.364",
+    "unit": "net EPA per play",
+    "rank_label": "NFL NO. 1",
+    "stamp": "TOP EIGHTH",
+    "display_arithmetic": "OFFENSE +0.357 − ALLOWED (-0.007) ≈ +0.364"
+  },
+  "consistency": {
+    "rank": 3,
+    "value": 10.0,
+    "offense": 56.875,
+    "allowed": 46.875,
+    "meaning": "Successful plays arrived more often than they were allowed.",
+    "display_value": "+10.0",
+    "unit": "percentage points",
+    "rank_label": "NFL NO. 3",
+    "stamp": "TOP EIGHTH",
+    "display_arithmetic": "OFFENSE 56.9% − ALLOWED 46.9% ≈ +10.0 percentage points"
+  },
+  "big_play_balance": {
+    "rank": 1,
+    "value": 10.729166666666664,
+    "offense": 14.374999999999998,
+    "allowed": 3.6458333333333335,
+    "meaning": "Created far more chunk gains per snap than it surrendered.",
+    "display_value": "+10.7",
+    "unit": "percentage points",
+    "rank_label": "NFL NO. 1",
+    "stamp": "TOP EIGHTH",
+    "display_arithmetic": "OFFENSE 14.4% − ALLOWED 3.6% ≈ +10.7 percentage points"
+  },
+  "caption": "First in efficiency. First in big-play balance. Three games of receipts; no lifetime warranty. Through NFL Week 3, 2026. Three-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon",
+  "filename": "san-francisco-49ers-nfl-2026-week-3-three-numbers-dirt-canon.png",
+  "template_file": "../template-spec.json",
+  "scope": {
+    "league": "NFL",
+    "season": 2026,
+    "through_week": 3,
+    "type": "season-to-date",
+    "game_dates": [
+      "2026-09-09",
+      "2026-09-28"
+    ],
+    "latest_week_dates": [
+      "2026-09-24",
+      "2026-09-28"
+    ],
+    "research_cutoff": "2026-09-29T08:29:00-04:00",
+    "source_refresh": "2026-09-29T07:32:16-04:00",
+    "rank_population": 32,
+    "games": 3
+  },
+  "rounding_note": "Compute differences from full precision; display arithmetic is approximate because components are rounded.",
+  "visual_status": "Reference and layout supplied; exact visual renderer not yet approved."
+}

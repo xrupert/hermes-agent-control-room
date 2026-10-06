@@ -1,0 +1,72 @@
+{
+  "team": "Green Bay Packers",
+  "team_code": "GB",
+  "city": "Green Bay",
+  "nickname": "Packers",
+  "primary": "#204e32",
+  "secondary": "#ffb612",
+  "period": "2026 NFL · THROUGH WEEK 3 · SEP 9–28 · 3-GAME SAMPLE",
+  "verdict": "Eighth in big plays. Twenty-ninth in efficiency.\nA highlight reel is not an alibi.",
+  "next_test": "Tampa Bay Buccaneers",
+  "next_question": "Can Green Bay fix the ordinary snaps against Tampa Bay?",
+  "sample": "SAMPLE · 3 GAMES · 180 OFFENSIVE / 193 DEFENSIVE PLAYS",
+  "efficiency": {
+    "rank": 29,
+    "value": -0.1777738157060444,
+    "offense": -0.1220174998010812,
+    "allowed": 0.0557563159049632,
+    "meaning": "The offense lost expected scoring value per play.",
+    "display_value": "-0.178",
+    "unit": "net EPA per play",
+    "rank_label": "NFL NO. 29",
+    "stamp": "BOTTOM EIGHTH",
+    "display_arithmetic": "OFFENSE -0.122 − ALLOWED (+0.056) ≈ -0.178"
+  },
+  "consistency": {
+    "rank": 31,
+    "value": -8.37363270005757,
+    "offense": 37.22222222222222,
+    "allowed": 45.59585492227979,
+    "meaning": "Opponents succeeded more often; the gap ranks 31st.",
+    "display_value": "-8.4",
+    "unit": "percentage points",
+    "rank_label": "NFL NO. 31",
+    "stamp": "BOTTOM EIGHTH",
+    "display_arithmetic": "OFFENSE 37.2% − ALLOWED 45.6% ≈ -8.4 percentage points"
+  },
+  "big_play_balance": {
+    "rank": 8,
+    "value": 2.1531375935521018,
+    "offense": 8.88888888888889,
+    "allowed": 6.735751295336788,
+    "meaning": "A positive chunk-play balance has not fixed the other two.",
+    "display_value": "+2.2",
+    "unit": "percentage points",
+    "rank_label": "NFL NO. 8",
+    "stamp": "TOP QUARTER",
+    "display_arithmetic": "OFFENSE 8.9% − ALLOWED 6.7% ≈ +2.2 percentage points"
+  },
+  "caption": "Eighth in big plays. Twenty-ninth in efficiency. A highlight reel is not an alibi. Through NFL Week 3, 2026. Three-game sample; not opponent-adjusted. More at TheDiRTCanon.com. #NFL #TheDiRTCanon",
+  "filename": "green-bay-packers-nfl-2026-week-3-three-numbers-dirt-canon.png",
+  "template_file": "../template-spec.json",
+  "scope": {
+    "league": "NFL",
+    "season": 2026,
+    "through_week": 3,
+    "type": "season-to-date",
+    "game_dates": [
+      "2026-09-09",
+      "2026-09-28"
+    ],
+    "latest_week_dates": [
+      "2026-09-24",
+      "2026-09-28"
+    ],
+    "research_cutoff": "2026-09-29T08:29:00-04:00",
+    "source_refresh": "2026-09-29T07:32:16-04:00",
+    "rank_population": 32,
+    "games": 3
+  },
+  "rounding_note": "Compute differences from full precision; display arithmetic is approximate because components are rounded.",
+  "visual_status": "Reference and layout supplied; exact visual renderer not yet approved."
+}
